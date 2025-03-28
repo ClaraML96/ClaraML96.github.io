@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to Clara's homepage
+title: Welcome to Clara's test homepage
 email: Clara.mejlhede@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This text is for describing what this website is going to entail.  
+  This website will entail interests, projects and other things I would like to test out on this platform.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ClaraML96.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ClaraML96
