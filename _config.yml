@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to Clara's test homepage
+title: Welcome to Clara's homepage
+subtitle: >- # this means to ignore newlines until "baseurl:"
+  This is a test site for my personal projects and interests.
+author: Clara Mejlhede Lorenzen # the name of your site owner
 email: Clara.mejlhede@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website will entail interests, projects and other things I would like to test out on this platform.
