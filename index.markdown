@@ -35,7 +35,7 @@ Our data shows:
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\stations_line_plot.html" width="1200" height="750" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
+    <iframe src="html_templates\stations_line_plot.html" width="1150" height="950" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
   </div>
 </div>
 
