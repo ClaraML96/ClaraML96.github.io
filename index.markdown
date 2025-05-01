@@ -9,25 +9,40 @@ title: Home
 
 # **How New York’s Subway Ridership Dances to the Rhythm of the City**
 
-"New York City’s subway isn’t just infrastructure - it’s a barometer of the city’s life. Each spike, each dip in ridership tells us something about what’s happening above ground. Whether it’s a marathon, a holiday, or a disaster - the subway responds."
+New York City’s subway system is more than just a means of transportation—it is a living, breathing reflection of the city's dynamic pulse. Every fluctuation in ridership tells a story about what is happening above ground. From the exuberant influx of marathon runners to the quiet lulls following major incidents, the subway responds in real-time to the city's events.
 
-Data Sources:
-- Hourly Ridership Data (2020–2024)
-- Major Subway Incident Reports (2020–2024)
+In this data story, we delve into the intricate relationship between the city's happenings and subway usage. Utilizing **Hourly Ridership Data (2020–2024)** and **Major Subway Incident Reports (2020–2024)** datasets, we explore how planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and spontaneous occurrences such as protests or severe weather conditions influence the ebb and flow of commuters. Our analysis reveals patterns that not only highlight the subway's responsiveness but also offer insights into the city's resilience and adaptability.
+
+Join us as we uncover the narratives hidden within the numbers, illustrating how the subway serves as a barometer for New York City's ever-changing landscape.
 
 ---
 
-## **When the City Celebrates** 
+## **When the City Celebrates, the Subway Becomes a Party**
 
-### **New York city Marathon**
-Every first Sunday in November, over **50,000 runners** flood the streets for the **New York City Marathon**. Stations near Central Park seeing how ridership spikes compared to typical Sundays.
+### **New York City Marathon**
+Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [official New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
 
-**DATA VISUALIZATION** *A ridership heatmap of Marathon Sunday vs. a regular Sunday, with annotations at key stations.*  
+Our data shows:
+- An early morning sharp surge (5–7 AM) as runners head to Staten Island for the starting line.
+- A second midday wave (10 AM–2 PM) as spectators travel to cheer zones.
+- A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
 
-**Our data shows:** INPUT ANALYSIS OF RIDERSHIP
-- A **sharp surge** in early morning ridership (5-7 AM) as runners head to Staten Island. 
-- A **second wave** (10 AM-2 PM) as spectators travel to cheer zones.  
-- A **noticeable dip** in other parts of the city—why? Because half of Manhattan is either running or watching!  
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates\marathon_heatmap.html" width="1200" height="900" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates\stations_line_plot.html" width="1200" height="750" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
+  </div>
+</div>
+
+The New York City Marathon is not just a race; it is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [official NYRR Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)).
+
+But why has marathon running surged in popularity? Beyond the challenge, many are drawn to the structure, community, and personal growth it offers. The pandemic era, in particular, saw a boom in running as people sought connection and purpose. Platforms like TikTok have further fuelled this trend, turning marathon training into a shared journey. Explore more about this phenomenon in [this insightful article](https://www.axios.com/2024/05/08/marathon-running-training-tiktok). ([Why Marathon Running Is Booming - WSJ](https://www.wsj.com/lifestyle/fitness/marathon-increasing-popularity-2025-caac1bb6), [Axios Finish Line: Why more people are running marathons](https://www.axios.com/2024/05/08/marathon-running-training-tiktok)).
+
 
 ### **New Year’s Eve**  
 When the clock strikes midnight in Times Square, the subway faces its biggest crowd surge of the year.
