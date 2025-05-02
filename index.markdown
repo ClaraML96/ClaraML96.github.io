@@ -31,17 +31,61 @@ Our data shows:
   <div class="image-container">
     <iframe src="html_templates\marathon_heatmap.html" width="1200" height="900" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    Figure 1: Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
+  </p>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\stations_line_plot.html" width="1150" height="950" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
   </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    Figure 2: Line plot comparing hourly ridership at key subway stations on Marathon Sunday, illustrating patterns of crowd movement and station activity throughout the day.
+  </p>
 </div>
 
 The New York City Marathon is not just a race; it is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [official NYRR Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)).
 
 But why has marathon running surged in popularity? Beyond the challenge, many are drawn to the structure, community, and personal growth it offers. The pandemic era, in particular, saw a boom in running as people sought connection and purpose. Platforms like TikTok have further fuelled this trend, turning marathon training into a shared journey. Explore more about this phenomenon in [this insightful article](https://www.axios.com/2024/05/08/marathon-running-training-tiktok). ([Why Marathon Running Is Booming - WSJ](https://www.wsj.com/lifestyle/fitness/marathon-increasing-popularity-2025-caac1bb6), [Axios Finish Line: Why more people are running marathons](https://www.axios.com/2024/05/08/marathon-running-training-tiktok)).
+
+---
+
+### **New Year’s Eve – The Ultimate Subway Stress Test**
+
+When the ball drops in Times Square, it is not just a moment of celebration—it is one of the largest and most predictable surges in subway ridership all year.
+
+Each 31 December, stations near Times Square, like 42 St–Port Authority, Times Sq–42 St, and 34 St–Penn Station, become pressure valves for the city's festivities. Our data reveals:
+
+* A dramatic spike from 11 PM to 1 AM, as revellers flood into Midtown to secure a view of the countdown.
+* Late-night services (1–3 AM) experience ridership surges up to 2.5× higher than a typical Saturday night.
+* The 1, 2, N, Q, R, and A/C/E lines show the heaviest traffic during this window, especially near Times Square and Columbus Circle.
+
+But then comes the New Year’s Day hangover—both literal and logistical. On 1 January:
+
+* Ridership drops 40–50% below normal Sunday levels, particularly before noon.
+* Uptown-bound stations remain unusually quiet until mid-afternoon, as the city slowly reawakens.
+
+This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme temporal oscillations in the entire ridership dataset.
+
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates/nye_timeseries.html" width="950" height="850" style="border:none;" title="New Year's Eve Subway Ridership – Hourly Trend (Dec 31 vs Jan 1)"></iframe>
+  </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    Figure 3: Hourly subway ridership trends on New Year's Eve (Dec 31) vs. New Year's Day (Jan 1), highlighting changes in travel behaviour around midnight.
+  </p>
+</div>
+
+### The Cultural Pulse of Midnight in Midtown
+
+New Year’s Eve in New York is more than just a party—it is a city-wide ritual. With over a million people cramming into the blocks around Times Square (per [NYPD estimates](https://www.nytimes.com/2023/12/31/nyregion/times-square-new-years-eve.html)), the MTA becomes the only practical way in and out. The subway does not just reflect the party—it enables it.
+
+Even in years affected by pandemic restrictions, data shows a smaller but still visible spike, suggesting the deep cultural grip of this annual celebration.
+
+Want to learn more about the infrastructure that makes this night possible? See this behind-the-scenes feature on [how NYC manages crowd control and transit for New Year’s Eve](https://gothamist.com/news/heres-how-nyc-prepares-for-new-years-eve-in-times-square).
+
+
 
 
 ### **New Year’s Eve**  
