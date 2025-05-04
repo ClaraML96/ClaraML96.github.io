@@ -105,9 +105,8 @@ If we examine the overall distribution of major incidents over time, we can begi
 
 Two categories stand out sharply:
 
-    "Persons on trackbed / Police / Medical": These are the most frequent and disruptive incidents, often tied to emergencies, vulnerable populations, or mental health crises.
-
-    "Signals": A chronic technical issue that often reflects infrastructure aging or network congestion during high-traffic periods.
+- "Persons on trackbed / Police / Medical": These are the most frequent and disruptive incidents, often tied to emergencies, vulnerable populations, or mental health crises.
+- "Signals": A chronic technical issue that often reflects infrastructure aging or network congestion during high-traffic periods.
 
 This pattern shows that human and technical factors are the main stress points in keeping the subway running smoothly.
 
@@ -124,7 +123,7 @@ Are celebrations linked to more disruptions? The data suggests: yes.
 </div>
 During marathon months, we observe a noticeable spike in operational and medical incidents, especially near start and finish zones. The added foot traffic and street closures may lead to increased platform crowding, longer dwell times, and greater pressure on subway operations.
 
-    Key Insight: Even though it’s a celebratory event, the system experiences strain from crowd control and accessibility demands.
+- Even though it’s a celebratory event, the system experiences strain from crowd control and accessibility demands.
 
 #### New Year’s Eve
 
@@ -134,7 +133,7 @@ During marathon months, we observe a noticeable spike in operational and medical
 
 On New Year’s Eve, the story intensifies. We see a clear jump in incidents, especially those tied to safety and policing. This aligns with increased late-night ridership, alcohol consumption, and large gatherings in areas like Times Square.
 
-    Key Insight: The subway doesn't just mirror the city's mood—it absorbs its chaos.
+- The subway doesn't just mirror the city's mood—it absorbs its chaos.
 
 ---
 
