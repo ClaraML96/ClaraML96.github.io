@@ -140,41 +140,6 @@ Both datasets reveal that planned, joyful events still cause operational frictio
 
 ---
 
-### Weather Extremes vs. Subway Usage
-
-Weather patterns play a huge role in shaping subway usage—but the impact is not always as expected. The city’s reliance on the subway fluctuates with the temperature.
-
-#### Snowstorms: A Bitter Chill for Outer Boroughs
-
-When winter storms hit, the outer boroughs feel the brunt of it. Snow is no stranger to New York, but it still disrupts the subway flow in surprising ways:
-
-* During the snowstorms of January 2022 and December 2023, we saw a 20% drop in ridership—but only in outer boroughs like Queens and The Bronx. These boroughs depend more on buses, which are less reliable in snowstorms, and this drops their ridership during severe weather.
-* Manhattan, however, kept moving. Its underground lines are better shielded from the snow, meaning ridership patterns stayed relatively steady even in the worst weather.
-
-#### Heatwaves: When the Subway Becomes a Lifeline
-
-Summer heat, on the other hand, has an entirely different effect. During heatwaves like the one in July 2023, the subway becomes the only escape from the scorching streets:
-
-* Temperature extremes (38°C+) send subway use surging by 10%, as walking outside is unbearable.
-* With air conditioning and a more controlled environment, New Yorkers turn to the subway as a sanctuary from the heat, while others find themselves avoiding the outdoors altogether.
-
-These findings reveal a stark contrast: while snowstorm disruptions have a regional effect, heatwaves increase overall subway use. Weather patterns matter, and commuters change their habits in response to extreme conditions.
-
-[comment]: <> (📊 *Visual idea: A scatter plot of temperature vs. ridership, with key heatwave and snowstorm dates highlighted, showing how temperature extremes influence commuter behaviour.* )
-
----
-
-###  The Takeaways
-
-The data underscores two key points:
-
-1. Delays are not just annoyances—they are cascading events that affect a much broader section of the system than one might expect. Small disruptions at key hubs, like Penn Station, can have citywide consequences.
-2. Weather changes commuter behaviour. Snowstorms and heatwaves might look similar on the surface, but they differently shape ridership patterns, with cold weather affecting only certain boroughs and heatwaves bringing an overall increase in usage.
-
-The subway is an adaptable system, but when disaster strikes—whether due to a technical failure or extreme weather—New Yorkers must adjust quickly and the MTA must be ready to respond just as swiftly, to keep the city's pulse moving.
-
----
-
 ## Act III: Disruption and Detour — When the Subway Becomes a Mirror of the City
 
 New York is a city in constant motion—but sometimes, that motion stutters, shifts, or surges unpredictably. From protests to power failures to momentary panic, the subway does not just reflect daily routines—it registers shock waves from the city's most dramatic moments.
