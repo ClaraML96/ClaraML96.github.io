@@ -135,6 +135,9 @@ On New Year’s Eve, the story intensifies. We see a clear jump in incidents, es
 
 - The subway doesn't just mirror the city's mood—it absorbs its chaos.
 
+
+Both datasets reveal that planned, joyful events still cause operational friction. But the nature of the disruptions differs: the Marathon triggers physical and logistical strains, while New Year's Eve surfaces social and behavioral challenges. Together, they show how event-driven ridership isn't just a number—it has human, systemic consequences underground.
+
 ---
 
 ### Weather Extremes vs. Subway Usage
