@@ -108,8 +108,15 @@ Disruptions on the subway often come like a ripple effect, starting small but qu
 Are celebrations linked to more disruptions?
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Incidents_bigEvents.png" style="width: 150%">
+    <img src="Figures/Incidents_marathon.png" style="width: 150%">
 </div>
+We see here a graph of the distribution of incidents in the subway around the time of the marathon
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/Incidents_nye.png" style="width: 150%">
+</div>
+We see here a graph of the distribution of incidents in the subway around the time of New Year
 
 ---
 
