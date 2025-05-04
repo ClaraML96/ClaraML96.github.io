@@ -7,6 +7,8 @@ title: Home
 
 ---
 
+<img src="{{ site.baseurl }}/Figures/NYC_subway.jpg" alt="A descriptive alt text for your header image" style="width:100%; height:auto; object-fit: cover;">
+
 # **How New York’s Subway Ridership Dances to the Rhythm of the City**
 
 New York City’s subway system is more than just a means of transportation—it is a living, breathing reflection of the city's dynamic pulse. Every fluctuation in ridership tells a story about what is happening above ground. From the exuberant influx of marathon runners to the quiet lulls following major incidents, the subway responds in real-time to the city's events.
@@ -15,7 +17,7 @@ In this data story, we delve into the intricate relationship between the city's 
 
 Join us as we uncover the narratives hidden within the numbers, illustrating how the subway serves as a barometer for New York City's ever-changing landscape.
 
----
+___
 
 ## ACT I : When the City Celebrates, the Subway Becomes a Party
 
