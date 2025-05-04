@@ -31,9 +31,9 @@ github_username:  ClaraML96 # the username of your GitHub account, e.g. github_u
 # twitter_username: jekyllrb
 
 # Build settings
-theme: jekyll-theme-minimal # minima
+# theme: jekyll-theme-minimal # minima
 #remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: "cotes2020/jekyll-theme-chirpy"
+remote_theme: "cotes2020/jekyll-theme-chirpy"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
