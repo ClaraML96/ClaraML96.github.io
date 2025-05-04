@@ -101,16 +101,11 @@ Disruptions on the subway often come like a ripple effect, starting small but qu
 
 ### Incidents During Big Events
 
-A signal failure—it seems like a simple issue. But for the subway, it is often a ticking time bomb.
+Are celebrations linked to more disruptions?
 
-Our analysis of the **MTA Major Incidents dataset** reveals just how critical these disruptions are:
-
-* A signal delay at Penn Station does not just affect that single station; it sends shock waves across the city’s busiest lines. A morning delay can reduce ridership by 15% across stations on the A, C, and E lines, which serve key areas like Chelsea, Midtown, and Downtown Manhattan.
-* The effects are long-lasting: When these delays last for 3 hours or more, many commuters seek alternatives—Uber, buses, or even working from home. After such delays, commuters do not always return immediately to the subway. They have found a new way to get around.
-
-This domino effect illustrates the delicate balance the subway maintains: a small disruption can spiral out of control, affecting thousands of riders across multiple boroughs.
-
-[comment]: <> (📊 *Visual idea: A ridership line graph showing typical commuter traffic with overlaid timestamps marking major delays (signal issues) and their impact on nearby stations.* )
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/Incidents_bigEvents.png" style="width: 150%">
+</div>
 
 ---
 
