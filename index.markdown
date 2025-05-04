@@ -30,12 +30,12 @@ Our data shows:
 - A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
 
 <div style="display: flex; justify-content: center;">
-  <div class="image-container">
-    <iframe src="html_templates\marathon_heatmap.html" width="1200" height="900" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
-  </div>
-  <p style="margin-top: 10px; font-style: italic; color: #555;">
-    Figure 1: Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
-  </p>
+  <div class="image-container">
+    <iframe src="html_templates\marathon_heatmap.html" width="800" height="600" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
+  </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    Figure 1: Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
+  </p>
 </div>
 
 <div style="display: flex; justify-content: center;">
