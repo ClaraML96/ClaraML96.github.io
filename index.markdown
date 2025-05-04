@@ -93,13 +93,13 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 
 ---
 
-## Act II: When Disaster Strikes – How Incidents Disrupt the Flow
+## Act II: When the City Struggles – The Subway Feels It
 
 Disruptions on the subway often come like a ripple effect, starting small but quickly magnifying. A single signal failure, a sudden snowstorm, or even a heatwave can derail the city’s rhythm, throwing off thousands of commuters. As we dive into these incidents, we uncover how these moments of chaos test the resilience of the MTA—and New Yorkers’ ability to adapt.
 
 ---
 
-### The "Signal Problem" Domino Effect
+### Incidents During Big Events
 
 A signal failure—it seems like a simple issue. But for the subway, it is often a ticking time bomb.
 
@@ -114,7 +114,7 @@ This domino effect illustrates the delicate balance the subway maintains: a smal
 
 ---
 
-### Extreme Weather vs. Subway Reliance
+### Weather Extremes vs. Subway Usage
 
 Weather patterns play a huge role in shaping subway usage—but the impact is not always as expected. The city’s reliance on the subway fluctuates with the temperature.
 
