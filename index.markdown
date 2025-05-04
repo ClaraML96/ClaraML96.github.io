@@ -95,28 +95,46 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 
 ## Act II: When the City Struggles – The Subway Feels It
 
-Disruptions on the subway often come like a ripple effect, starting small but quickly magnifying. A single signal failure, a sudden snowstorm, or even a heatwave can derail the city’s rhythm, throwing off thousands of commuters. As we dive into these incidents, we uncover how these moments of chaos test the resilience of the MTA—and New Yorkers’ ability to adapt.
+Subway systems don’t operate in a vacuum. When the city experiences stress—be it human, technical, or environmental—the effects ripple through the underground arteries.
+
+If we examine the overall distribution of major incidents over time, we can begin to see patterns in how and when things go wrong. This heatmap reveals when certain types of incidents dominate the MTA's operations.
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Heatmap_incidents.png" style="width: 150%">
 </div>
 
+Two categories stand out sharply:
+
+    "Persons on trackbed / Police / Medical": These are the most frequent and disruptive incidents, often tied to emergencies, vulnerable populations, or mental health crises.
+
+    "Signals": A chronic technical issue that often reflects infrastructure aging or network congestion during high-traffic periods.
+
+This pattern shows that human and technical factors are the main stress points in keeping the subway running smoothly.
+
 ---
 
 ### Incidents During Big Events
 
-Are celebrations linked to more disruptions?
+Are celebrations linked to more disruptions? The data suggests: yes.
+
+#### NYC Marathon
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Incidents_marathon.png" style="width: 150%">
 </div>
-We see here a graph of the distribution of incidents in the subway around the time of the marathon
+During marathon months, we observe a noticeable spike in operational and medical incidents, especially near start and finish zones. The added foot traffic and street closures may lead to increased platform crowding, longer dwell times, and greater pressure on subway operations.
 
+    Key Insight: Even though it’s a celebratory event, the system experiences strain from crowd control and accessibility demands.
+
+#### New Year’s Eve
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Incidents_nye.png" style="width: 150%">
 </div>
-We see here a graph of the distribution of incidents in the subway around the time of New Year
+
+On New Year’s Eve, the story intensifies. We see a clear jump in incidents, especially those tied to safety and policing. This aligns with increased late-night ridership, alcohol consumption, and large gatherings in areas like Times Square.
+
+    Key Insight: The subway doesn't just mirror the city's mood—it absorbs its chaos.
 
 ---
 
