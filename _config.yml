@@ -26,11 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   <br/>
   <b> Group 27: </b>
   <br/>
-  Clara Mejlhede Lorenzen - s180350
-  <br/>
-  Pol Triquell Lombardo - s243271 
-  <br/>
-  Marie Sophie Mudge Woods - s194384
+  Clara Mejlhede Lorenzen (s180350) | Pol Triquell Lombardo (s243271) | Marie Sophie Mudge Woods (s194384)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ClaraML96.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ClaraML96 # the username of your GitHub account, e.g. github_username: jekyllrb
