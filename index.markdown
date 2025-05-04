@@ -98,7 +98,7 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 Disruptions on the subway often come like a ripple effect, starting small but quickly magnifying. A single signal failure, a sudden snowstorm, or even a heatwave can derail the city’s rhythm, throwing off thousands of commuters. As we dive into these incidents, we uncover how these moments of chaos test the resilience of the MTA—and New Yorkers’ ability to adapt.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Heatmap_incidents.png" style="width: 250%">
+    <img src="Figures/Heatmap_incidents.png" style="width: 150%">
 </div>
 
 ---
