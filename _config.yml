@@ -22,9 +22,11 @@ title: 02806 Social data analysis and visualization
 email: s1803504@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   <br/>
+  <span style="font-size: 80%;">
   <b> Group 27: </b>
   <br/>
   Clara Mejlhede Lorenzen (s180350) | Pol Triquell Lombardo (s243271) | Marie Sophie Mudge Woods (s194384)
+  </span>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ClaraML96.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ClaraML96 # the username of your GitHub account, e.g. github_username: jekyllrb
