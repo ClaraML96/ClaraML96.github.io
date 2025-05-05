@@ -11,7 +11,11 @@ title: How New York’s Subway Ridership Dances to the Rhythm of the City
 
 New York City’s subway system is more than just a means of transportation—it is a living, breathing reflection of the city's dynamic pulse. Every fluctuation in ridership tells a story about what is happening above ground. From the exuberant influx of marathon runners to the quiet lulls following major incidents, the subway responds in real-time to the city's events.
 
-In this data story, we delve into the intricate relationship between the city's happenings and subway usage. Utilizing [MTA Subway Hourly Ridership Data (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data) and [Major Subway Incident Reports (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Major-Incidents-2020-2024/j6d2-s8m2/about_data) datasets, we explore how planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and spontaneous occurrences such as protests or severe weather conditions influence the flow of commuters. Our analysis reveals patterns that not only highlight the subway's responsiveness but also offer insights into the city's resilience and adaptability.
+In this data story, we delve into the intricate relationship between the city's happenings and subway usage. Utilizing the two datasets: 
+- [MTA Subway Hourly Ridership Data (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data) 
+- [Major Subway Incident Reports (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Major-Incidents-2020-2024/j6d2-s8m2/about_data) 
+
+We explore how planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and New years eve influence the flow of commuters. Our analysis reveals patterns that not only highlight the subway's responsiveness but also offer insights into the city's resilience and adaptability.
 
 Join us as we uncover the narratives hidden within the numbers, illustrating how the subway serves as a barometer for New York City's ever-changing landscape.
 
