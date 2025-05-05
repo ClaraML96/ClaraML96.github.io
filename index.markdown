@@ -126,7 +126,7 @@ The subway, in a way, mirrors how people behave and move throughout the city. Wh
 
 ### Incidents During Big Events
 
-Are celebrations linked to more disruptions? The data suggests: yes.
+In the first act of this article, we looked into how if the subway ridership is reflected on bigger events in New York City. Will this also be reflected on the incident reports on the subway?
 
 #### NYC Marathon
 
