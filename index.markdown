@@ -107,14 +107,41 @@ If we examine the overall distribution of major incidents over time, from 2020-2
 
 Before diving into the trends, it's helpful to understand what each incident category means:
 
-| Incident    | Description |
-| -------- | ------- |
-| Track  | Problems involving the physical rail infrastructure—like obstructions, debris, or track damage.|
-| Signals | Failures in the systems that control train movement, often due to aging infrastructure or surges in traffic.|
-| Persons on Trackbed / Police / Medical | Incidents involving individuals on the tracks, law enforcement activities, or medical emergencies.
-| Stations and Structure| Disruptions caused by station-related issues, such as power failures or damaged equipment.
-| Subway Car | Mechanical faults on the trains themselves—brakes, doors, or other internal systems. |
-| Other | Rare or uncategorized events that still significantly disrupted service.|
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="text-align: left; padding: 8px;">Incident</th>
+      <th style="text-align: left; padding: 8px;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;"><strong>Track</strong></td>
+      <td style="padding: 8px;">Problems involving the rail infrastructure—like obstructions, debris, or damage.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Signals</strong></td>
+      <td style="padding: 8px;">Failures in systems that control train movement, often due to aging infrastructure or congestion.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Persons on Trackbed / Police / Medical</strong></td>
+      <td style="padding: 8px;">Emergencies involving people on the tracks, law enforcement, or medical response.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Stations and Structure</strong></td>
+      <td style="padding: 8px;">Incidents related to station facilities, power outages, or broken equipment.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Subway Car</strong></td>
+      <td style="padding: 8px;">Mechanical faults on the trains—like doors, brakes, or ventilation systems.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>Other</strong></td>
+      <td style="padding: 8px;">Unusual or uncategorized disruptions still affecting normal subway operations.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Two categories stand out sharply:
 
