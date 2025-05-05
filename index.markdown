@@ -135,8 +135,8 @@ In the first act of this article, we looked into how if the subway ridership is 
 #### NYC Marathon
 
 <div class="narrative-container">
-  <div class="image-container">
-    <iframe src="./scripts/nyc_marathon_incidents_bar_plot.html" width="900" height="500" style="border:none;"></iframe>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/barplot_marathon.png" style="width: 150%">
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
     <strong>Figure 6:</strong> Barplot displaying subway incidents over the years.
