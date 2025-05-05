@@ -136,12 +136,11 @@ In the first act of this article, we looked into how if the subway ridership is 
 
 <div class="narrative-container">
   <div class="image-container">
-    <iframe src="/_scripts/nyc_marathon_incidents_bar_plot.html" width="900" height="500" style="border:none;"></iframe>
+    <iframe src="./scripts/nyc_marathon_incidents_bar_plot.html" width="900" height="500" style="border:none;"></iframe>
   </div>
-  <div class="text-container">
-    <p>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
     <strong>Figure 6:</strong> Barplot displaying subway incidents over the years.
-  </div>
+  </p>
 </div>
 
 During marathon months, we observe a noticeable spike in operational and medical incidents, especially near start and finish zones. The added foot traffic and street closures may lead to increased platform crowding, longer dwell times, and greater pressure on subway operations.
