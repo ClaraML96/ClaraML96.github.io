@@ -93,13 +93,18 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 
 ## Act II: When the City Struggles – The Subway Feels It
 
-Subway systems don’t operate in a vacuum. When the city experiences stress—be it human, technical, or environmental—the effects ripple through the underground arteries.
+When the city experiences stress - if it is human, technical or environmental - the underground feels it.
 
-If we examine the overall distribution of major incidents over time, we can begin to see patterns in how and when things go wrong. This heatmap reveals when certain types of incidents dominate the MTA's operations.
-
-<div style="display: flex; justify-content: center; align-items: center;">
+If we examine the overall distribution of major incidents over time, from 2020-2024, we can begin to see patterns in how and when things go wrong. This heatmap reveals when certain types of incidents dominate the MTA's operations.
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Heatmap_incidents.png" style="width: 150%">
+  </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    Figure 4: Heatmap of the reported incidents of NYC subway by date and Category
+  </p>
 </div>
+
 
 Two categories stand out sharply:
 
@@ -107,6 +112,17 @@ Two categories stand out sharply:
 - "Signals": A chronic technical issue that often reflects infrastructure aging or network congestion during high-traffic periods.
 
 This pattern shows that human and technical factors are the main stress points in keeping the subway running smoothly.
+
+When looking at the heatmap in Figure 5, we see a distinct period of reduced incident reporting. This quiet phase aligns with the early months of the COVID-19 pandemic in New York City ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). The subway, in a way, mirrors how people behave and move throughout the city. When the city slowed down, so did its underground lifeline.
+
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/corona_heatmap.png" style="width: 150%">
+  </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    Figure 5: Heatmap marking a period with fewer incidents
+  </p>
+</div>
 
 ---
 
