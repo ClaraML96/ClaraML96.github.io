@@ -107,17 +107,14 @@ If we examine the overall distribution of major incidents over time, from 2020-2
 
 Before diving into the trends, it's helpful to understand what each incident category means:
 
-- Track: Problems involving the physical rail infrastructure—like obstructions, debris, or track damage.
-
-- Signals: Failures in the systems that control train movement, often due to aging infrastructure or surges in traffic.
-
-- Persons on Trackbed / Police / Medical: Incidents involving individuals on the tracks, law enforcement activities, or medical emergencies.
-
-- Stations and Structure: Disruptions caused by station-related issues, such as power failures or damaged equipment.
-
-- Subway Car: Mechanical faults on the trains themselves—brakes, doors, or other internal systems.
-
-- Other: Rare or uncategorized events that still significantly disrupted service.
+| Incident    | Description |
+| -------- | ------- |
+| Track  | Problems involving the physical rail infrastructure—like obstructions, debris, or track damage.|
+| Signals | Failures in the systems that control train movement, often due to aging infrastructure or surges in traffic.|
+| Persons on Trackbed / Police / Medical | Incidents involving individuals on the tracks, law enforcement activities, or medical emergencies.
+| Stations and Structure| Disruptions caused by station-related issues, such as power failures or damaged equipment.
+| Subway Car | Mechanical faults on the trains themselves—brakes, doors, or other internal systems. |
+| Other | Rare or uncategorized events that still significantly disrupted service.|
 
 Two categories stand out sharply:
 
