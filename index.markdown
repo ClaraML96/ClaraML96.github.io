@@ -136,7 +136,7 @@ In the first act of this article, we looked into how if the subway ridership is 
 
 <div class="narrative-container">
   <div class="image-container">
-    <iframe src="/_scripts/nyc_marathon_incidents_bar_plot.html 24h by district 4.html" width="900" height="500" style="border:none;"></iframe>
+    <iframe src="/_scripts/nyc_marathon_incidents_bar_plot.html" width="900" height="500" style="border:none;"></iframe>
   </div>
   <div class="text-container">
     <p>
