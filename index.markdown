@@ -96,14 +96,10 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 When the city experiences stress - if it is human, technical or environmental - the underground feels it.
 
 If we examine the overall distribution of major incidents over time, from 2020-2024, we can begin to see patterns in how and when things go wrong. This heatmap reveals when certain types of incidents dominate the MTA's operations.
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Heatmap_incidents.png" style="width: 150%">
-  </div>
-  <p style="margin-top: 10px; font-style: italic; color: #555;">
-    Figure 4: Heatmap of the reported incidents of NYC subway by date and Category
-  </p>
 </div>
+Figure 4: Heatmap of the reported incidents of NYC subway by date and Category
 
 
 Two categories stand out sharply:
