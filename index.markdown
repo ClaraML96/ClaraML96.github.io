@@ -143,7 +143,7 @@ Before diving into the trends, it's helpful to understand what each incident cat
 </table>
 
 
-Two categories stand out sharply:
+Two categories stands out when looking at the heatmap in Figure 4:
 
 - "Persons on trackbed / Police / Medical": These are the most frequent and disruptive incidents, often tied to emergencies, vulnerable populations, or mental health crises.
 - "Signals": A chronic technical issue that often reflects infrastructure aging or network congestion during high-traffic periods.
