@@ -87,7 +87,7 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 
 *Want to learn more about the infrastructure that makes this night possible? See this behind-the-scenes feature on [how NYC manages crowd control and transit for New Year’s Eve](https://gothamist.com/news/heres-how-nyc-prepares-for-new-years-eve-in-times-square).*
 
-[comment]: <> (📊 *Visual idea: A map of protest locations with ridership changes at nearby stations.* / title="Subway Ridership Change During Protest Events (Brooklyn & Midtown) )
+[comment]: <> (*Visual idea: A map of protest locations with ridership changes at nearby stations.* / title="Subway Ridership Change During Protest Events (Brooklyn & Midtown) )
 
 ---
 
@@ -109,7 +109,7 @@ Two categories stand out sharply:
 
 This pattern shows that human and technical factors are the main stress points in keeping the subway running smoothly.
 
-When looking at the heatmap in Figure 5, we see a distinct period of reduced incident reporting. This quiet phase aligns with the early months of the COVID-19 pandemic in New York City ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). The subway, in a way, mirrors how people behave and move throughout the city. When the city slowed down, so did its underground lifeline.
+When looking at the heatmap in Figure 5, we see a distinct period of reduced incident reporting. This quiet phase aligns with the early months of the COVID-19 pandemic in New York City ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -119,6 +119,8 @@ When looking at the heatmap in Figure 5, we see a distinct period of reduced inc
     <strong>Figure 5:</strong> Heatmap marking a period with fewer incidents
   </p>
 </div>
+
+The subway, in a way, mirrors how people behave and move throughout the city. When the city slowed down, so did its underground lifeline.
 
 ---
 
