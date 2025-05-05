@@ -135,8 +135,9 @@ In the first act of this article, we looked into how if the subway ridership is 
 #### NYC Marathon
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Incidents_marathon.png" style="width: 150%">
+    <iframe src="_scripts\nyc_marathon_incidents_bar_plot.html" width="900" height="600" frameborder="0"></iframe>
 </div>
+
 During marathon months, we observe a noticeable spike in operational and medical incidents, especially near start and finish zones. The added foot traffic and street closures may lead to increased platform crowding, longer dwell times, and greater pressure on subway operations.
 
 - Even though it’s a celebratory event, the system experiences strain from crowd control and accessibility demands.
@@ -174,7 +175,7 @@ During the Black Lives Matter demonstrations in June 2020, our data shows sharp 
 * Nearby stations like Bergen St and 7 Av saw up ticks, suggesting riders rerouted to avoid heavy police presence or blocked access points.
 * Similar rerouteing effects occurred during climate justice marches in midtown (September 2023), when Grand Central–42 St entries fell by 30% during peak march hours.
 
-[comment]: <> (📊 *Visual idea: A map of protest locations with ridership changes at nearby stations.* / title="Subway Ridership Change During Protest Events (Brooklyn & Midtown) )
+[comment]: <> (*Visual idea: A map of protest locations with ridership changes at nearby stations.* / title="Subway Ridership Change During Protest Events (Brooklyn & Midtown) )
 
 These events do not suppress movement—they redistribute it. New Yorkers are famously mobile and adaptable; when paths close, they find others.
 
@@ -193,7 +194,7 @@ After the Times Square subway shooting on 10 April 2022, we observed a noticeabl
 
 Similarly, during the 2023 Midtown blackout, stations on the F line around Lexington Av/63 St experienced a 24-hour ridership plunge, followed by a delayed return—with some usage patterns never fully recovering.
 
-[comment]: <> (📊 *Visual idea: A bar chart of crime/incident dates vs. ridership drops at affected stations.* / title="Ridership Impact of Disruption Events (Shootings, Blackouts, Repairs) )
+[comment]: <> (*Visual idea: A bar chart of crime/incident dates vs. ridership drops at affected stations.* / title="Ridership Impact of Disruption Events (Shootings, Blackouts, Repairs) )
 
 
 These moments reveal something deeper: the psychology of movement. Disruptions do not just block access—they create emotional echoes. Riders shift patterns for safety, convenience, or simply peace of mind.
