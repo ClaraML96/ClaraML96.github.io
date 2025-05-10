@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   <span style="font-size: 80%;">
   <b> Group 27: </b>
   <br/>
-  Clara Mejlhede Lorenzen (s180350) | Pol Triquell Lombardo (s243271) 
+  Clara Mejlhede Lorenzen (s180350) & Pol Triquell Lombardo (s243271) 
   </span>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ClaraML96.github.io" # the base hostname & protocol for your site, e.g. http://example.com
