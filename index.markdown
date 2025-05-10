@@ -52,28 +52,31 @@ When exploring the histogram in **Figure 3**, we observe that subway usage begin
 To understand how the subway operates under pressure, we explore how ridership patterns shift during major city-wide celebrations. We will here focus on two iconic events: the annual New York City Marathon and New Year’s Eve festivities at Times Square. These events test the system’s capacity and highlight how New Yorkers rely on the subway to move through moments of collective celebration.
 
 ### New York City Marathon
-Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [official New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
+Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
 
 Our data shows:
 - An early morning sharp surge (5–7 AM) as runners head to Staten Island for the starting line.
 - A second midday wave (10 AM–2 PM) as spectators travel to cheer zones.
 - A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
 
+[comment]: <> ( I think we should only one visualisation. They are showing the same thing.
+
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\marathon_heatmap.html" width="1200" height="900" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 1:</strong> Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
+    <strong>Figure 4:</strong> Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
   </p>
 </div>
+)
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\stations_line_plot.html" width="1120" height="950" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 2:</strong> Line plot comparing hourly ridership at key subway stations on Marathon Sunday, illustrating patterns of crowd movement and station activity throughout the day.
+    <strong>Figure 5:</strong> Line plot comparing hourly ridership at key subway stations on Marathon Sunday, illustrating patterns of crowd movement and station activity throughout the day.
   </p>
 </div>
 
