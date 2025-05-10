@@ -23,11 +23,11 @@ Join us as we uncover the narratives hidden within the numbers, illustrating how
 
 <div class="map-container">
     <iframe
-      src="../_scripts/figures/CPH Districts.html"
+      src="../_scripts/figures/nyc_subway_heatmap.html"
       class="iframe"
       style="min-height: 600px;"
     ></iframe>
-  </div>
+</div>
 
 
 
