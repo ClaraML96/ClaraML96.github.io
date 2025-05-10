@@ -91,20 +91,11 @@ The New York City Marathon is a storied tradition. Starting in 1970 with just 12
 
 ### New Year’s Eve – The Ultimate Subway Stress Test
 
-When the ball drops in Times Square, it is not just a moment of celebration—it is one of the largest and most predictable surges in subway ridership all year.
+When the ball drops in Times Square, it is not just a moment of celebration, it is one of the largest and most predictable waves in subway ridership all year.
 
-Each 31 December, stations near Times Square, like 42 St–Port Authority, Times Sq–42 St, and 34 St–Penn Station, become pressure valves for the city's festivities. Our data reveals:
+Each 31 December, stations near Times Square, like 42 St–Port Authority, Times Sq–42 St, and 34 St–Penn Station, become pressure valves for the city's festivities. 
 
-* A dramatic spike from 11 PM to 1 AM, as revellers flood into Midtown to secure a view of the countdown.
-* Late-night services (1–3 AM) experience ridership surges up to 2.5× higher than a typical Saturday night.
-* The 1, 2, N, Q, R, and A/C/E lines show the heaviest traffic during this window, especially near Times Square and Columbus Circle.
-
-But then comes the New Year’s Day hangover—both literal and logistical. On 1 January:
-
-* Ridership drops 40–50% below normal Sunday levels, particularly before noon.
-* Uptown-bound stations remain unusually quiet until mid-afternoon, as the city slowly reawakens.
-
-This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme temporal oscillations in the entire ridership dataset.
+We explore this below in Figure 5
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -114,6 +105,17 @@ This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extr
     <strong>Figure 5:</strong> Hourly subway ridership trends on New Year's Eve (Dec 31) vs. New Year's Day (Jan 1), highlighting changes in travel behaviour around midnight.
   </p>
 </div>
+
+For New years eve (the yellow line) we can following:
+* A dramatic spike from 11 PM to 1 AM, as revellers flood into Midtown to secure a view of the countdown.
+* Late-night services (1–3 AM) experience ridership surges up to 2.5× higher than a typical Saturday night.
+* The 1, 2, N, Q, R, and A/C/E lines show the heaviest traffic during this window, especially near Times Square and Columbus Circle.
+
+But then comes the New Year’s Day (the blue line) we have these observations: 
+* Ridership drops 40–50% below normal Sunday levels, particularly before noon.
+* Uptown-bound stations remain unusually quiet until mid-afternoon, as the city slowly reawakens.
+
+This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme temporal oscillations in the entire ridership dataset.
 
 ### The Cultural Pulse of Midnight in Midtown
 
