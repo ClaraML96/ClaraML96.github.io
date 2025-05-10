@@ -95,7 +95,7 @@ When the ball drops in Times Square, it is not just a moment of celebration, it 
 
 Each 31 December, stations near Times Square, like 42 St–Port Authority, Times Sq–42 St, and 34 St–Penn Station, become pressure valves for the city's festivities. 
 
-We explore this below in Figure 5
+We explore this below in **Figure 5**
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -107,7 +107,7 @@ We explore this below in Figure 5
 </div>
 
 For New years eve (the yellow line) we can following:
-* A dramatic spike from 11 PM to 1 AM, as revellers flood into Midtown to secure a view of the countdown.
+* A dramatic spike in ridership from 11 PM to 1 AM, as revelers flood into Midtown to secure a view of the countdown.
 * Late-night services (1–3 AM) experience ridership surges up to 2.5× higher than a typical Saturday night.
 * The 1, 2, N, Q, R, and A/C/E lines show the heaviest traffic during this window, especially near Times Square and Columbus Circle.
 
@@ -115,7 +115,7 @@ But then comes the New Year’s Day (the blue line) we have these observations:
 * Ridership drops 40–50% below normal Sunday levels, particularly before noon.
 * Uptown-bound stations remain unusually quiet until mid-afternoon, as the city slowly reawakens.
 
-This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme temporal oscillations in the entire ridership dataset.
+This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme shifts in the entire ridership dataset.
 
 ### The Cultural Pulse of Midnight in Midtown
 
