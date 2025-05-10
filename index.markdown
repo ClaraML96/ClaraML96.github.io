@@ -1,6 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# bundle exec jekyll serve 
 
 layout: default
 title: How New York’s Subway Ridership Dances to the Rhythm of the City
@@ -23,7 +24,7 @@ Join us as we uncover the narratives hidden within the numbers, illustrating how
 
 <div class="map-container">
     <iframe
-      src="../_scripts/figures/nyc_subway_heatmap.html"
+      src="{{ site.baseurl }}/_scripts/figures/nyc_subway_heatmap.html"
       class="iframe"
       style="min-height: 600px;"
     ></iframe>
