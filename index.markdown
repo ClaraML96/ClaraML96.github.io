@@ -49,6 +49,8 @@ When exploring the histogram in **Figure 3**, we observe that subway usage begin
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
+To understand how the subway operates under pressure, we explore how ridership patterns shift during major city-wide celebrations. We will here focus on two iconic events: the annual New York City Marathon and New Year’s Eve festivities at Times Square. These events test the system’s capacity and highlight how New Yorkers rely on the subway to move through moments of collective celebration.
+
 ### New York City Marathon
 Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [official New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
 
