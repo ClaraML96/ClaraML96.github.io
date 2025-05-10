@@ -35,7 +35,7 @@ How the city functions in the everyday
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Subway_usage.png" style="width: 90%">
+    <img src="Figures/Subway_usage.png" style="width: 50%">
   </div>
 </div>
 
