@@ -65,7 +65,7 @@ Every first Sunday in November, over 50,000 runners traverse all five boroughs f
 </div>
 -->
 
-In the interactive **Figure 4**, we can explore how ridership is distributed throughout the day of the marathon.
+In this interactive plot in **Figure 4**, we can explore how ridership is distributed throughout the day of the marathon.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -77,12 +77,11 @@ In the interactive **Figure 4**, we can explore how ridership is distributed thr
 </div>
 
 **Figure 4** reveals several key observations:
-- An early morning sharp surge (5–7 AM) as runners head to Staten Island for the starting line.
-- A second midday wave (10 AM–2 PM) as spectators travel to cheer zones.
-- A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
+- The morning rush starts at 5–7 AM as runners head to Staten Island for the starting line.
+- At midday a second wave occur at 10 AM–2 PM as spectators travel to cheer zones.
+- After the race a noticeable dip in the ridership around 5 PM.
 
-
-The New York City Marathon is not just a race; it is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [official NYRR Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)).
+The New York City Marathon is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [NYC Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory).<!-- ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)). -->
 
 But why has marathon running surged in popularity? Beyond the challenge, many are drawn to the structure, community, and personal growth it offers. The pandemic era, in particular, saw a boom in running as people sought connection and purpose. Platforms like TikTok have further fuelled this trend, turning marathon training into a shared journey. 
 
