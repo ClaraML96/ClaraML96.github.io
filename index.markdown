@@ -19,9 +19,16 @@ We explore how planned events like the [New York City Marathon](https://www.nyrr
 
 Join us as we uncover the narratives hidden within the numbers, illustrating how the subway serves as a barometer for New York City's ever-changing landscape.
 
+## ACT I : Understanding the subway usage
 
 
-## ACT I : When the City Celebrates, the Subway Becomes a Party
+
+
+
+
+
+
+## ACT II : When the City Celebrates, the Subway Becomes a Party
 
 ### New York City Marathon
 Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [official New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
@@ -95,7 +102,7 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 
 ---
 
-## Act II: When the City Struggles – The Subway Feels It
+## Act III: When the City Struggles – The Subway Feels It
 
 When the city experiences stress - if it is human, technical or environmental - the underground feels it.
 
