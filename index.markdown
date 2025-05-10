@@ -32,7 +32,7 @@ Before we dive into the bigger events in the big apple, we will first explore ho
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\nyc_subway_heatmap.html" width="100%" height="600px" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
+    <iframe src="html_templates\nyc_subway_heatmap.html" width="600px" height="600px" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
     <strong>Figure 1:</strong> Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
