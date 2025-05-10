@@ -26,7 +26,7 @@ Before we dive into the bigger events in the big apple, we will first explore ho
   <div class="image-container">
     <iframe src="html_templates\nyc_subway_heatmap.html" width="650px" height="600px" style="border:none; margin-bottom: 20px;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
-  <p style="margin-top: 20px; font-style: italic; color: #555;">
+  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
     <strong>Figure 1:</strong> Heatmap illustrating subway ridership density across New York City, highlighting areas of concentrated activity.
   </p>
 </div>
