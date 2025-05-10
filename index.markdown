@@ -22,8 +22,13 @@ Join us as we uncover the narratives hidden within the numbers, illustrating how
 
 ## ACT I : Understanding the subway usage
 
-<iframe src="/_scripts\nyc_subway_heatmap.html" style="width:100%; height:600px;" frameborder="0"></iframe>
-
+<div class="map-container">
+    <iframe
+      src="/_scripts\nyc_subway_heatmap.html"
+      class="iframe"
+      style="width:100%; height:600px;"
+    ></iframe>
+  </div>
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
