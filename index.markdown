@@ -38,8 +38,11 @@ To better understand how New Yorkers interact with the subway system, we examine
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Subway_usage.png" style="width: 150%">
+    <b>
+    </b>
   </div>
 </div>
+
 
 We can now explore how the city uses the subway system across different boroughs and how ridership is distributed throughout the day.
 
