@@ -39,6 +39,7 @@ How the city functions in the everyday
   </div>
 </div>
 
+We can here explore the borough that is used most and the rushhours of the day. 
 
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
