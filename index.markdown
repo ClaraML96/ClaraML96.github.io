@@ -22,6 +22,8 @@ Join us as we uncover the narratives hidden within the numbers, illustrating how
 
 ## ACT I : Understanding the subway usage
 
+text
+
 <div class="map-container">
     <iframe
       src="/_scripts\nyc_subway_heatmap.html"
