@@ -39,7 +39,11 @@ How the city functions in the everyday
   </div>
 </div>
 
-We can here explore the borough that is used most and the rushhours of the day. 
+We can here explore how the city uses the subway in the different boroughs and how the usage of the subway is distributed on the intire day.
+
+When we look at the polar chart in figure 2 ...
+
+When exploring the histogram in figure 3 .. 
 
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
