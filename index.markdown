@@ -75,7 +75,7 @@ Our data shows:
     <iframe src="html_templates\stations_line_plot.html" width="1120" height="950" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 5:</strong> Line plot comparing hourly ridership at key subway stations on Marathon Sunday, illustrating patterns of crowd movement and station activity throughout the day.
+    <strong>Figure 4:</strong> Line plot comparing hourly ridership at key subway stations on Marathon Sunday, illustrating patterns of crowd movement and station activity throughout the day.
   </p>
 </div>
 
@@ -109,7 +109,7 @@ This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extr
     <iframe src="html_templates/nye_timeseries.html" width="920" height="625" style="border:none;" title="New Year's Eve Subway Ridership – Hourly Trend (Dec 31 vs Jan 1)"></iframe>
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 3:</strong> Hourly subway ridership trends on New Year's Eve (Dec 31) vs. New Year's Day (Jan 1), highlighting changes in travel behaviour around midnight.
+    <strong>Figure 5:</strong> Hourly subway ridership trends on New Year's Eve (Dec 31) vs. New Year's Day (Jan 1), highlighting changes in travel behaviour around midnight.
   </p>
 </div>
 
@@ -133,7 +133,7 @@ If we examine the overall distribution of major incidents over time, from 2020-2
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Heatmap_incidents.png" style="width: 150%">
 </div>
-<strong>Figure 4:</strong> Heatmap of the reported incidents of NYC subway by date and Category
+<strong>Figure 6:</strong> Heatmap of the reported incidents of NYC subway by date and Category
 
 Before diving into the trends, it's helpful to understand what each incident category means:
 
@@ -187,7 +187,7 @@ When looking at the heatmap in Figure 5, we see a distinct period of reduced inc
     <img src="Figures/corona_heatmap.png" style="width: 150%">
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 5:</strong> Heatmap marking a period with fewer incidents
+    <strong>Figure 7:</strong> Heatmap marking a period with fewer incidents
   </p>
 </div>
 
@@ -206,7 +206,7 @@ In the first act of this article, we looked into how if the subway ridership is 
     <img src="Figures/barplot_marathon.png" style="width: 150%">
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 6:</strong> Barplot displaying subway incidents over the years.
+    <strong>Figure 8:</strong> Barplot displaying subway incidents over the years.
   </p>
 </div>
 
