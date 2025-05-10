@@ -37,9 +37,7 @@ To better understand how New Yorkers interact with the subway system, we examine
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Subway_usage.png" style="width: 150%">
-    <b>
-    </b>
+    <img src="Figures/Subway_usage.png" style="width: 150%;  margin-bottom: 20px;">
   </div>
 </div>
 
