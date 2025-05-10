@@ -21,9 +21,13 @@ Join us as we uncover the narratives hidden within the numbers, illustrating how
 
 ## ACT I : Understanding the subway usage
 
-
-
-
+<div class="map-container">
+    <iframe
+      src="../_scripts/figures/CPH Districts.html"
+      class="iframe"
+      style="min-height: 600px;"
+    ></iframe>
+  </div>
 
 
 
