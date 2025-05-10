@@ -77,15 +77,15 @@ In this interactive plot in **Figure 4**, we can explore how ridership is distri
 </div>
 
 **Figure 4** reveals several key observations:
-- The morning rush starts at 5–7 AM as runners head to Staten Island for the starting line.
-- At midday a second wave occur at 10 AM–2 PM as spectators travel to cheer zones.
-- After the race a noticeable dip in the ridership around 5 PM.
+- The morning rush begins at 5–7 AM, as runners travel to Staten Island for the starting line.
+- Around 10 AM to 2 PM, a second wave occurs as spectators head to popular cheer zones along the route.
+- After the race, there is a noticeable dip in ridership around 5 PM, as the event winds down and crowds begin to disperse.
 
 The New York City Marathon is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [NYC Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory).<!-- ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)). -->
 
-But why has marathon running surged in popularity? Beyond the challenge, many are drawn to the structure, community, and personal growth it offers. The pandemic era, in particular, saw a boom in running as people sought connection and purpose. Platforms like TikTok have further fuelled this trend, turning marathon training into a shared journey. 
+<!--But why has marathon running surged in popularity? Beyond the challenge, many are drawn to the structure, community, and personal growth it offers. The pandemic era, in particular, saw a boom in running as people sought connection and purpose. Platforms like TikTok have further fuelled this trend, turning marathon training into a shared journey. 
 
-*Explore more about this phenomenon in [this insightful article](https://www.axios.com/2024/05/08/marathon-running-training-tiktok). ([Why Marathon Running Is Booming - WSJ](https://www.wsj.com/lifestyle/fitness/marathon-increasing-popularity-2025-caac1bb6), [Axios Finish Line: Why more people are running marathons](https://www.axios.com/2024/05/08/marathon-running-training-tiktok)).*
+*Explore more about this phenomenon in [this insightful article](https://www.axios.com/2024/05/08/marathon-running-training-tiktok). ([Why Marathon Running Is Booming - WSJ](https://www.wsj.com/lifestyle/fitness/marathon-increasing-popularity-2025-caac1bb6), [Axios Finish Line: Why more people are running marathons](https://www.axios.com/2024/05/08/marathon-running-training-tiktok)).* -->
 
 ---
 
