@@ -16,13 +16,11 @@ In this data story, we delve into the intricate relationship between the city's 
 - [MTA Subway Hourly Ridership Data (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data) 
 - [Major Subway Incident Reports (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Major-Incidents-2020-2024/j6d2-s8m2/about_data) 
 
-We explore how planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and New years eve influence the flow of commuters. Our analysis reveals patterns that not only highlight the subway's responsiveness but also offer insights into the city's resilience and adaptability.
-
-Join us as we uncover the narratives hidden within the numbers, illustrating how the subway serves as a barometer for New York City's ever-changing landscape.
+We explore how planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and [New years eve](https://www.timessquarenyc.org/nye/nye-landing) influence the flow of commuters. Our analysis reveals patterns that not only highlight the subway's responsiveness but also offer insights into the city's resilience and adaptability.
 
 ## ACT I : Understanding the subway usage
 
-text
+Before we dive into the bigger events in the big apple, we will first explore how the subway is used and its ridership on a daily basis 
 
 <div class="map-container">
     <iframe
@@ -30,7 +28,16 @@ text
       class="iframe"
       style="width:100%; height:600px;"
     ></iframe>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates\nyc_subway_heatmap.html" width="1200" height="900" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    <strong>Figure 1:</strong> Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
+  </p>
+</div>
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
