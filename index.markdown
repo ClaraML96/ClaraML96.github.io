@@ -20,7 +20,7 @@ We explore how planned events like the [New York City Marathon](https://www.nyrr
 
 ## ACT I : Understanding the subway usage
 
-Before we dive into the bigger events in the big apple, we will first explore how the subway is used and its ridership on a daily basis 
+Before we dive into the bigger events in the Big Apple, we will first explore how the subway is used and how its ridership varies on a daily basis. Public transportation plays a vital role in New York City's rhythm, and the subway system is arguably its lifeline. Understanding its everyday usage provides critical context for interpreting how larger events influence movement across the city.
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div class="image-container">
@@ -31,7 +31,9 @@ Before we dive into the bigger events in the big apple, we will first explore ho
   </p>
 </div>
 
-How the city functions in the everyday
+### How the City Functions in the Everyday
+
+To better understand how New Yorkers interact with the subway system, we examine both borough-level ridership patterns and the typical flow of commuters throughout the day.
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -39,11 +41,11 @@ How the city functions in the everyday
   </div>
 </div>
 
-We can here explore how the city uses the subway in the different boroughs and how the usage of the subway is distributed on the intire day.
+We can now explore how the city uses the subway system across different boroughs and how ridership is distributed throughout the day.
 
-When we look at the polar chart in figure 2 ...
+When we look at the **polar chart** in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected given Manhattan’s dense concentration of commercial areas, offices, tourist destinations, and transit hubs. Brooklyn follows next in usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers.
 
-When exploring the histogram in figure 3 .. 
+When exploring the **histogram** in **Figure 3**, we observe a clear peak in subway ridership between **8 AM** and **9 AM**, coinciding with morning rush hour. There's a second, broader peak in the late afternoon, between **4 PM** and **6 PM**, reflecting the evening commute. Outside these windows, ridership drops significantly during nighttime hours (especially from midnight to 5 AM), which aligns with typical work and activity schedules in the city.
 
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
