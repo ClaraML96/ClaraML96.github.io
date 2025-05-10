@@ -63,7 +63,7 @@ Our data shows:
   <div class="image-container">
     <iframe src="html_templates\marathon_heatmap.html" width="1200" height="900" style="border:none;" title="Subway Ridership Heatmap: Marathon Sunday with Key Stations"></iframe>
   </div>
-  <p style="font-style: italic; color: #555; font-size: 0.85em; max-width: 1000px; text-align: center;">
+  <p style="margin-top: -5px; font-style: italic; color: #555; font-size: 0.85em; max-width: 1000px; text-align: center;">
     <strong>Figure 4:</strong> Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
   </p>
 </div>
