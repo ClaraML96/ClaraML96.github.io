@@ -59,7 +59,7 @@ Our data shows:
 - A second midday wave (10 AM–2 PM) as spectators travel to cheer zones.
 - A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
 
-[comment]: <> ( I think we should only one visualisation. They are showing the same thing.
+[comment]: <
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -69,7 +69,7 @@ Our data shows:
     <strong>Figure 4:</strong> Heatmap showing hourly subway ridership on Marathon Sunday, with emphasis on stations along or near the race route.
   </p>
 </div>
-)
+> ( I think we should only one visualisation. They are showing the same thing.)
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
