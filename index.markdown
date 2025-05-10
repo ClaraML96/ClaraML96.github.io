@@ -41,13 +41,11 @@ To better understand how New Yorkers interact with the subway system, we examine
   </div>
 </div>
 
-
 We can now explore how the city uses the subway system across different boroughs and how ridership is distributed throughout the day.
 
-When we look at the **polar chart** in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected given Manhattan’s dense concentration of commercial areas, offices, tourist destinations, and transit hubs. Brooklyn follows next in usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers.
+When we look at the polar chart in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected, given Manhattan’s dense concentration of commercial areas, offices, tourist attractions, and transit hubs. Brooklyn follows next in terms of usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers, an insight that is also visible in the heatmap in **Figure 1**.
 
-When exploring the **histogram** in **Figure 3**, we observe a clear peak in subway ridership between **8 AM** and **9 AM**, coinciding with morning rush hour. There's a second, broader peak in the late afternoon, between **4 PM** and **6 PM**, reflecting the evening commute. Outside these windows, ridership drops significantly during nighttime hours (especially from midnight to 5 AM), which aligns with typical work and activity schedules in the city.
-
+When exploring the histogram in **Figure 3**, we observe that subway usage begins to rise around 6 AM, coinciding with the morning rush hour. The increase continues steadily until it peaks around 5 PM, reflecting the evening commute. After this point, ridership drops off significantly, especially between 1 AM and 4 AM, which aligns with typical work and activity schedules in the city, even in a place famously known as *“the city that never sleeps.”*
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
