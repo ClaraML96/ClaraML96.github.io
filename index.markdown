@@ -31,6 +31,17 @@ Before we dive into the bigger events in the big apple, we will first explore ho
   </p>
 </div>
 
+How the city functions in the everyday
+
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/subway_usage.png" style="width: 150%">
+  </div>
+</div>
+
+
+
+
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
 ### New York City Marathon
