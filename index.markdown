@@ -54,11 +54,6 @@ To understand how the subway operates under pressure, we explore how ridership p
 ### New York City Marathon
 Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
 
-Our data shows:
-- An early morning sharp surge (5–7 AM) as runners head to Staten Island for the starting line.
-- A second midday wave (10 AM–2 PM) as spectators travel to cheer zones.
-- A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
-
 <!--
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -70,6 +65,8 @@ Our data shows:
 </div>
 -->
 
+In the interactive **Figure 4**, we can explore how ridership is distributed throughout the day of the marathon.
+
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\stations_line_plot.html" width="1120" height="950" style="border:none;" title="Stations Ridership Line Plot: Marathon Sunday with Key Stations"></iframe>
@@ -78,6 +75,12 @@ Our data shows:
     <strong>Figure 4:</strong> Line plot comparing hourly ridership at key subway stations on Marathon Sunday, illustrating patterns of crowd movement and station activity throughout the day.
   </p>
 </div>
+
+**Figure 4** reveals several key observations:
+- An early morning sharp surge (5–7 AM) as runners head to Staten Island for the starting line.
+- A second midday wave (10 AM–2 PM) as spectators travel to cheer zones.
+- A noticeable dip in other parts of the city, why? As half of Manhattan is either running or watching!
+
 
 The New York City Marathon is not just a race; it is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [official NYRR Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)).
 
