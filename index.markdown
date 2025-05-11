@@ -255,23 +255,23 @@ To understand the incident patterns in the NYC subway system, we now turn to how
   </p>
 </div>
 
-
 <style>
   .narrative-columns {
     display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
     justify-content: space-between;
+    gap: 20px;
     margin-top: 20px;
+    flex-wrap: wrap; /* ensures responsive wrapping */
   }
 
   .narrative-container {
-    flex: 1 1 45%;
-    min-width: 280px;
+    flex: 1 1 48%; /* allows each box to take roughly half the row */
+    box-sizing: border-box;
     background-color: #f9f9f9;
-    padding: 15px 20px;
+    padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    min-width: 300px; /* helps with responsiveness */
   }
 
   .narrative-container h4 {
@@ -292,19 +292,19 @@ To understand the incident patterns in the NYC subway system, we now turn to how
   <div class="narrative-container">
     <h4>A Division (1–7):</h4>
     <ul>
-      <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Track” issues, indicating either higher vulnerability or usage.</li>
-      <li><strong>Lines 4 and 6</strong> also show consistently elevated incidents across multiple categories, especially signal-related and police/medical issues.</li>
-      <li><strong>Line 7</strong>, despite being a single line connecting Queens to Midtown, records a wide spread of incidents—suggesting high traffic or infrastructure strain.</li>
+      <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Track” issues.</li>
+      <li><strong>Lines 4 and 6</strong> show consistently elevated incidents, especially signal and medical issues.</li>
+      <li><strong>Line 7</strong> shows a broad range of issues, indicating high traffic or infrastructure strain.</li>
     </ul>
   </div>
 
   <div class="narrative-container">
     <h4>B Division (A–R):</h4>
     <ul>
-      <li><strong>Lines A, D, and E</strong> consistently top the incident count charts. Notably, Line A sees elevated levels across nearly all categories, particularly track and signal failures.</li>
-      <li><strong>Line G</strong>—despite being a crosstown line with lower ridership than others—has relatively high incidents in “Stations and Structure,” which could indicate aging infrastructure.</li>
-      <li><strong>J/Z lines</strong> see a sharp increase in incidents involving “Persons on Trackbed/Police/Medical,” possibly due to street-level station entrances or less staffing.</li>
-      <li><strong>Lines L, M, and N</strong> have balanced but moderate numbers, while <strong>Q and R</strong> show slightly higher technical (signal/track) related issues.</li>
+      <li><strong>Lines A, D, and E</strong> top the charts, with Line A having high numbers across most categories.</li>
+      <li><strong>Line G</strong> has high “Stations and Structure” incidents—possibly from aging infrastructure.</li>
+      <li><strong>J/Z lines</strong> show increased “Persons on Trackbed/Police/Medical” incidents.</li>
+      <li><strong>Lines L, M, and N</strong> are moderate overall; <strong>Q and R</strong> have more technical issues.</li>
     </ul>
   </div>
 </div>
