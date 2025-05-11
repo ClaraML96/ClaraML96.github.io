@@ -216,7 +216,7 @@ To examine these patterns more closely, **Figure 8** highlights the two months i
     <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1020" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
-    <strong>Figure 8:</strong> Displays the two months with the highest number of incidences in the subway and the two months the lowest amount of incidence in the subway.  
+    <strong>Figure 8:</strong> Comparison of the two highest-incident and two lowest-incident months in the NYC subway system during 2024, broken down by incident category.
   </p>
 </div>
 
@@ -229,12 +229,13 @@ From this breakdown, we can draw several conclusions:
 
 Across all months, ‘Persons on Trackbed/Police/Medical’ and ‘Signals’ remained consistently among the most frequent categories, highlighting persistent safety and technical concerns.
 
-
 ---
 
-### ipsum lorem
+### Incidents distributed on the different Trains 
 
-ipsum lorem ipsum lorem 
+To explore the incidents report more, we will now look into the incidents divided by the different subway lines. 
+
+
 
 ---
 
