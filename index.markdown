@@ -41,7 +41,7 @@ We can now explore how the city uses the subway system across different boroughs
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Polar_Chart.png" style="width: 150%;  margin-bottom: 20px;">
+    <img src="Figures/Polar_Chart.png" style="width: 100%;  margin-bottom: 20px;">
   </div>
   <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
     <strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
