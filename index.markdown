@@ -39,15 +39,10 @@ To better understand how New Yorkers interact with the subway system, we examine
 
 We can now explore how the city uses the subway system across different boroughs and how ridership is distributed throughout the day.
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="display: flex; justify-content: center;">
-      <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="Figures/Polar_Chart.png" style="width: 200%; margin-bottom: 10px;" alt="Polar chart visualizing total subway ridership by borough in New York City. Manhattan is represented by the largest yellow segment, indicating the highest ridership. Brooklyn follows with a smaller blue segment, while Queens, the Bronx, and Staten Island are represented by progressively smaller segments in shades of purple and blue. The chart includes a color gradient legend on the right, ranging from purple for lower ridership to yellow for higher ridership, with values labeled from 2 to 10 million. Borough names are labeled around the chart's perimeter. The tone is analytical, emphasizing the disparity in ridership across boroughs.">
-      </div>
-    </div>
-  </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="Figures\Polar_Chart.png" style="width: 150%">
 </div>
+
 <strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
 
 When we look at the polar chart in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected, given Manhattan’s dense concentration of commercial areas, offices, tourist attractions, and transit hubs. Brooklyn follows next in terms of usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers, an insight that is also visible in the heatmap in **Figure 1**.
