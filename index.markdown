@@ -246,6 +246,15 @@ Across all months, ‘Persons on Trackbed/Police/Medical’ and ‘Signals’ re
 
 To explore the incidents report more, we will now look into the incidents divided by the different subway lines. 
 
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1020" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
+  </div>
+  <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
+    <strong>Figure 9:</strong> The Incidents distributed in the different division and lines 
+  </p>
+</div>
+
 
 
 ---
