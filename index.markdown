@@ -276,6 +276,59 @@ B Division (A–R):
 - Lines L, M, and N have balanced but moderate numbers, while Q and R show slightly higher technical (signal/track) related issues.
 </div>
 
+<style>
+  .narrative-columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .narrative-container {
+    flex: 1 1 45%;
+    min-width: 280px;
+    background-color: #f9f9f9;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+
+  .narrative-container h4 {
+    margin-top: 0;
+    font-weight: bold;
+  }
+
+  .narrative-container ul {
+    padding-left: 20px;
+  }
+
+  .narrative-container li {
+    margin-bottom: 10px;
+  }
+</style>
+
+<div class="narrative-columns">
+  <div class="narrative-container">
+    <h4>A Division (1–7):</h4>
+    <ul>
+      <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Track” issues, indicating either higher vulnerability or usage.</li>
+      <li><strong>Lines 4 and 6</strong> also show consistently elevated incidents across multiple categories, especially signal-related and police/medical issues.</li>
+      <li><strong>Line 7</strong>, despite being a single line connecting Queens to Midtown, records a wide spread of incidents—suggesting high traffic or infrastructure strain.</li>
+    </ul>
+  </div>
+
+  <div class="narrative-container">
+    <h4>B Division (A–R):</h4>
+    <ul>
+      <li><strong>Lines A, D, and E</strong> consistently top the incident count charts. Notably, Line A sees elevated levels across nearly all categories, particularly track and signal failures.</li>
+      <li><strong>Line G</strong>—despite being a crosstown line with lower ridership than others—has relatively high incidents in “Stations and Structure,” which could indicate aging infrastructure.</li>
+      <li><strong>J/Z lines</strong> see a sharp increase in incidents involving “Persons on Trackbed/Police/Medical,” possibly due to street-level station entrances or less staffing.</li>
+      <li><strong>Lines L, M, and N</strong> have balanced but moderate numbers, while <strong>Q and R</strong> show slightly higher technical (signal/track) related issues.</li>
+    </ul>
+  </div>
+</div>
+
 
 ---
 
