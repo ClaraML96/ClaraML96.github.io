@@ -206,7 +206,7 @@ The subway, in a way, mirrors how people behave and move throughout the city. Wh
 
 ---
 
-### When does Subway incidence occur more often  
+### When Do Subway Incidents Occur Most Often?  
 As seen in the heatmap in **Figure 6**, certain months show noticeably higher frequencies of subway incidents.
 
 To examine these patterns more closely, **Figure 8** highlights the two months in 2024 with the highest number of recorded incidents, as well as the two months with the lowest. This comparison provides insight into how incident volumes fluctuate throughout the year and allows us to better understand potential underlying causes—be they seasonal, structural, or social.
