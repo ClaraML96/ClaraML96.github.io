@@ -248,7 +248,7 @@ To explore the incidents report more, we will now look into the incidents divide
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1150" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
+    <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1120" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
     <strong>Figure 9:</strong> The Incidents distributed in the different division and lines 
