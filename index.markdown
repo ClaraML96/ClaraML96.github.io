@@ -41,7 +41,11 @@ We can now explore how the city uses the subway system across different boroughs
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Polar_Chart.png" style="width: 200%;  margin-bottom: 10px;">
+    <div style="display: flex; justify-content: center;">
+      <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="Figures/Polar_Chart.png" style="width: 200%; margin-bottom: 10px;" alt="Polar chart visualizing total subway ridership by borough in New York City. Manhattan is represented by the largest yellow segment, indicating the highest ridership. Brooklyn follows with a smaller blue segment, while Queens, the Bronx, and Staten Island are represented by progressively smaller segments in shades of purple and blue. The chart includes a color gradient legend on the right, ranging from purple for lower ridership to yellow for higher ridership, with values labeled from 2 to 10 million. Borough names are labeled around the chart's perimeter. The tone is analytical, emphasizing the disparity in ridership across boroughs.">
+      </div>
+    </div>
   </div>
 </div>
 <strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
