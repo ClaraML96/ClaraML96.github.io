@@ -52,7 +52,7 @@ When we look at the polar chart in **Figure 2**, we see that Manhattan dominates
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Histogram.png" style="width: 150%;  margin-bottom: 20px;">
+    <img src="Figures/Histogram.png" style="width: 200%;  margin-bottom: 20px;">
   </div>
   <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
     <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
