@@ -144,7 +144,6 @@ By examining the overall distribution of major incidents from 2020 to 2024, we b
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="Figures/Heatmap_incidents.png" style="width: 150%">
 </div>
-
 <strong>Figure 6:</strong> Heatmap of the reported incidents of NYC subway by date and Category
 
 Before diving into the trends, it's helpful to understand what each incident category means:
@@ -208,6 +207,9 @@ The subway, in a way, mirrors how people behave and move throughout the city. Wh
 ---
 
 ### When does Subway incidence occur more often  
+As seen in the heatmap in **Figure 6**, certain months show noticeably higher frequencies of subway incidents.
+
+To examine these patterns more closely, **Figure 8** highlights the two months in 2024 with the highest number of recorded incidents, as well as the two months with the lowest. This comparison provides insight into how incident volumes fluctuate throughout the year and allows us to better understand potential underlying causes—be they seasonal, structural, or social.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -217,6 +219,15 @@ The subway, in a way, mirrors how people behave and move throughout the city. Wh
     <strong>Figure 8:</strong> Displays the two months with the highest number of incidences in the subway and the two months the lowest amount of incidence in the subway.  
   </p>
 </div>
+
+From this breakdown, we can draw several conclusions:
+
+* December 2024 had the highest number of incidents, likely due to increased traffic during the holiday season, colder weather stressing infrastructure, and more crowd-related disruptions.
+* January 2024 followed closely, possibly driven by harsh winter conditions and early-year operational resets.
+* October 2024 recorded the lowest number of incidents, suggesting a period of relative stability, milder weather, and fewer crowd-based events.
+* June 2024, the second-lowest, may reflect reduced ridership during early summer breaks or operational improvements during that window.
+
+Across all months, ‘Persons on Trackbed/Police/Medical’ and ‘Signals’ remained consistently among the most frequent categories, highlighting persistent safety and technical concerns.
 
 
 
