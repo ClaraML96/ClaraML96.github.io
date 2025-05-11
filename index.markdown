@@ -211,9 +211,9 @@ The subway, in a way, mirrors how people behave and move throughout the city. Wh
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1120" height="950" style="border:none;" title="Incidence monthly occurence "></iframe>
+    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1000" height="900" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
-  <p style="margin-top: 10px; font-style: italic; color: #555;">
+  <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
     <strong>Figure 8:</strong> Displays the two months with the highest number of incidences in the subway and the two months the lowest amount of incidence in the subway.  
   </p>
 </div>
