@@ -230,7 +230,7 @@ From this breakdown, we can draw several conclusions:
 Across all months, ‘Persons on Trackbed/Police/Medical’ and ‘Signals’ remained consistently among the most frequent categories, highlighting persistent safety and technical concerns.
 
 
-
+<!--
 
 ### Incidents During Big Events
 
@@ -350,6 +350,8 @@ For the Metropolitan Transportation Authority (MTA), these insights offer critic
 For the people of New York, the subway is not just a means of transport—it is a part of their daily rhythm. It is the silent observer of the city’s emotional highs and lows. Whether it is a triumphant win, a community gathering, or a crisis, the subway is where stories unfold.
 
 Through this analysis, we have gained a deeper understanding of the intricate dance between the subway and the city. We have learned how to read its rhythm, recognising the patterns that emerge during moments of tension and celebration. Now, we can anticipate how the city moves, adjusts, and comes together—or how it sometimes chooses to take a detour.
+
+-->
 
 ---
 
