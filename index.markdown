@@ -244,17 +244,37 @@ Across all months, ‘Persons on Trackbed/Police/Medical’ and ‘Signals’ re
 
 ### Incidents distributed on the different Trains 
 
-To explore the incidents report more, we will now look into the incidents divided by the different subway lines. 
+To understand the incident patterns in the NYC subway system, we now turn to how incidents are distributed across different subway lines and divisions. The subway is split into the A Division (lines 1–7) and B Division (lettered lines), which differ in infrastructure and traffic density. **Figure 9** visualizes incident counts per line, broken down by category.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1120" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
-    <strong>Figure 9:</strong> The Incidents distributed in the different division and lines 
+    <strong>Figure 9:</strong> Distribution of subway incidents by line and division, categorized by type of incident (2024)
   </p>
 </div>
 
+<div class="narrative-container">
+A Division (1–7):
+
+- Line 2 stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Track” issues, indicating either higher vulnerability or usage.
+
+- Line 4 and 6 also show consistently elevated incidents across multiple categories, especially signal-related and police/medical issues.
+
+- Line 7, despite being a single line connecting Queens to Midtown, records a wide spread of incidents—suggesting high traffic or infrastructure strain.
+</div>
+<div class="narrative-container">
+B Division (A–R):
+
+- Lines A, D, and E consistently top the incident count charts. Notably, Line A sees elevated levels across nearly all categories, particularly track and signal failures.
+
+- Line G—despite being a crosstown line with lower ridership than others—has relatively high incidents in “Stations and Structure,” which could indicate aging infrastructure.
+
+- The J/Z lines see a sharp increase in incidents involving “Persons on Trackbed/Police/Medical,” possibly due to street-level station entrances or less staffing.
+
+- Lines L, M, and N have balanced but moderate numbers, while Q and R show slightly higher technical (signal/track) related issues.
+</div>
 
 
 ---
