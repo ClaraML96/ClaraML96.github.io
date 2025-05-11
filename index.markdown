@@ -191,7 +191,7 @@ Two categories stands out when looking at the heatmap in Figure 4:
 
 This pattern shows that human and technical factors are the main stress points in keeping the subway running smoothly.
 
-When looking at the heatmap in Figure 5, we see a distinct period of reduced incident reporting. This quiet phase aligns with the early months of the COVID-19 pandemic in New York City ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
+When looking at the heatmap in **Figure 5**, we see a distinct period of reduced incident reporting. This quiet phase aligns with the early months of the COVID-19 pandemic in New York City ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -213,7 +213,7 @@ To examine these patterns more closely, **Figure 8** highlights the two months i
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1020" height="900" style="border:none;" title="Incidence monthly occurence "></iframe>
+    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1020" height="700" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
     <strong>Figure 8:</strong> Displays the two months with the highest number of incidences in the subway and the two months the lowest amount of incidence in the subway.  
