@@ -31,6 +31,8 @@ Before we dive into the bigger events in the Big Apple, we will first explore ho
   </p>
 </div>
 
+[comment]: <> (Change the map to make an interactive plugin to change the timeperiod)
+
 ### How the City Functions in the Everyday
 
 To better understand how New Yorkers interact with the subway system, we examine both borough-level ridership patterns and the typical flow of commuters throughout the day.
@@ -117,6 +119,7 @@ But then comes the New Year’s Day (the blue line) we have these observations:
 
 This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme shifts in the entire ridership dataset.
 
+<!--
 ### The Cultural Pulse of Midnight in Midtown
 
 New Year’s Eve in New York is more than just a party—it is a city-wide ritual. With over a million people cramming into the blocks around Times Square (per [NYPD estimates](https://www.nytimes.com/2023/12/31/nyregion/times-square-new-years-eve.html)), the MTA becomes the only practical way in and out. The subway does not just reflect the party—it enables it.
@@ -126,12 +129,13 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 *Want to learn more about the infrastructure that makes this night possible? See this behind-the-scenes feature on [how NYC manages crowd control and transit for New Year’s Eve](https://gothamist.com/news/heres-how-nyc-prepares-for-new-years-eve-in-times-square).*
 
 [comment]: <> (*Visual idea: A map of protest locations with ridership changes at nearby stations.* / title="Subway Ridership Change During Protest Events (Brooklyn & Midtown) )
+-->
 
 ---
 
 ## Act III: When the City Struggles – The Subway Feels It
 
-When the city experiences stress - if it is human, technical or environmental - the underground feels it.
+When the city experiences stress -if it is human, technical or environmental- the underground feels it.
 
 If we examine the overall distribution of major incidents over time, from 2020-2024, we can begin to see patterns in how and when things go wrong. This heatmap reveals when certain types of incidents dominate the MTA's operations.
 <div style="display: flex; justify-content: center; align-items: center;">
