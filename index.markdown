@@ -41,18 +41,16 @@ We can now explore how the city uses the subway system across different boroughs
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Polar_Chart.png" style="width: 100%;  margin-bottom: 20px;">
+    <img src="Figures/Polar_Chart.png" style="width: 100%;  margin-bottom: 10px;">
   </div>
-  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
-  </p>
 </div>
+<strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
 
 When we look at the polar chart in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected, given Manhattan’s dense concentration of commercial areas, offices, tourist attractions, and transit hubs. Brooklyn follows next in terms of usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers, an insight that is also visible in the heatmap in **Figure 1**.
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Histogram.png" style="width: 200%;  margin-bottom: 20px;">
+    <img src="Figures/Histogram.png" style="width: 200%;  margin-bottom: 10px;">
   </div>
 </div>
 <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
