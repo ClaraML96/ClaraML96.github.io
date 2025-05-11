@@ -293,21 +293,22 @@ Here we can obser following:
   <div class="narrative-container">
     <h4>A Division:</h4>
     <ul>
-      <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Other” issues.</li>
-      <li><strong>Line 4</strong> stands out with mainly "Track" problems.</li>
-      <li><strong>Line 7</strong> shows a broad range of issues, indicating high traffic.</li>
+      <li><strong>Line 2</strong> reports the highest number of incidents, especially involving “Persons on Trackbed/Police/Medical” and “Other” categories.</li>
+      <li><strong>Line 4</strong> is notable for a high number of “Track”-related incidents.</li>
+      <li><strong>Line 7</strong> shows a wide distribution of incident types, possibly due to heavy usage and infrastructure strain.</li>
     </ul>
   </div>
 
   <div class="narrative-container">
     <h4>B Division:</h4>
     <ul>
-      <li><strong>Lines A</strong> have far most "Track" problems together with “Persons on Trackbed/Police/Medical”.</li>
-      <li><strong>Line G</strong> has high “Stations and Structure” incidents—possibly from aging infrastructure.</li>
-      <li><strong>J/Z lines</strong> together with <strong>L</strong> have equal amount of “Persons on Trackbed/Police/Medical” incidents, which is the next highest amount in division B.</li>
+      <li><strong>Line A</strong> has the most “Track” issues, along with a high number of “Persons on Trackbed/Police/Medical” incidents.</li>
+      <li><strong>Line G</strong> records a high number of “Stations and Structure” incidents, likely pointing to aging facilities.</li>
+      <li><strong>Lines J/Z</strong> and <strong>Line L</strong> report the second-highest number of “Persons on Trackbed/Police/Medical” incidents in the division.</li>
     </ul>
   </div>
 </div>
+
 
 **Patterns Across Categories:**
 
