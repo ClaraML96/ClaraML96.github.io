@@ -37,15 +37,27 @@ Before we dive into the bigger events in the Big Apple, we will first explore ho
 
 To better understand how New Yorkers interact with the subway system, we examine both borough-level ridership patterns and the typical flow of commuters throughout the day.
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Subway_usage.png" style="width: 150%;  margin-bottom: 20px;">
-  </div>
-</div>
-
 We can now explore how the city uses the subway system across different boroughs and how ridership is distributed throughout the day.
 
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/Polar_Chart.png" style="width: 150%;  margin-bottom: 20px;">
+  </div>
+  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
+    <strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
+  </p>
+</div>
+
 When we look at the polar chart in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected, given Manhattan’s dense concentration of commercial areas, offices, tourist attractions, and transit hubs. Brooklyn follows next in terms of usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers, an insight that is also visible in the heatmap in **Figure 1**.
+
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="Figures/Histogram.png" style="width: 150%;  margin-bottom: 20px;">
+  </div>
+  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
+    <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
+  </p>
+</div>
 
 When exploring the histogram in **Figure 3**, we observe that subway usage begins to rise around 6 AM, coinciding with the morning rush hour. The increase continues steadily until it peaks around 5 PM, reflecting the evening commute. After this point, ridership drops off significantly, especially between 1 AM and 4 AM, which aligns with typical work and activity schedules in the city, even in a place famously known as *“the city that never sleeps.”*
 
