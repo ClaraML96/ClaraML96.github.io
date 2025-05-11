@@ -280,13 +280,14 @@ To understand the incident patterns in the NYC subway system, we now turn to how
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1120" height="650" style="border:none;" title="Incidence monthly occurence "></iframe>
+    <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1120" height="620" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
     <strong>Figure 9:</strong> Distribution of subway incidents by line and division, categorized by type of incident (2024)
   </p>
 </div>
 
+Here we can obser following:
 
 <div class="narrative-columns">
   <div class="narrative-container">
