@@ -40,7 +40,7 @@ To better understand how New Yorkers interact with the subway system, we examine
 We can now explore how the city uses the subway system across different boroughs and how ridership is distributed throughout the day.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="Figures\Polar_Chart.png" style="width: 50%">
+  <img src="Figures\Polar_Chart.png" style="width: 150%">
 </div>
 
 <strong>Figure 2:</strong> The polar chart visualizes the total subway ridership by borough in New York City
