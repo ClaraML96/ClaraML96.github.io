@@ -293,8 +293,9 @@ Here we can obser following:
   <div class="narrative-container">
     <h4>A Division:</h4>
     <ul>
-      <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Track” issues.</li>
-      <li><strong>Lines 4 and 6</strong> show consistently elevated incidents, especially signal and medical issues.</li>
+      <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Other” issues.</li>
+      <li><strong>Line 6</strong> also have a high “Persons on Trackbed/Police/Medical” incidents together with "Signal" issues.</li>
+      <li><strong>Line 4</strong> stands out with mainly "Track" problems.</li>
       <li><strong>Line 7</strong> shows a broad range of issues, indicating high traffic or infrastructure strain.</li>
     </ul>
   </div>
