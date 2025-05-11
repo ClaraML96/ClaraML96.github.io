@@ -207,6 +207,20 @@ The subway, in a way, mirrors how people behave and move throughout the city. Wh
 
 ---
 
+### When does Subway incidence occur more often  
+
+<div style="display: flex; justify-content: center;">
+  <div class="image-container">
+    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1120" height="950" style="border:none;" title="Incidence monthly occurence "></iframe>
+  </div>
+  <p style="margin-top: 10px; font-style: italic; color: #555;">
+    <strong>Figure 8:</strong> Displays the two months with the highest number of incidences in the subway and the two months the lowest amount of incidence in the subway.  
+  </p>
+</div>
+
+
+
+
 ### Incidents During Big Events
 
 In the first act of this article, we looked into how if the subway ridership is reflected on bigger events in New York City. Will this also be reflected on the incident reports on the subway?
