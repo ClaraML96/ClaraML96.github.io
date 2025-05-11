@@ -40,7 +40,7 @@ title: How New York’s Subway Ridership Dances to the Rhythm of the City
   }
 </style>
 
-<img src="{{ site.baseurl }}/Figures/NYC_subway.jpg" alt="A descriptive alt text for your header image" style="width:100%; height:auto; object-fit: cover;">
+<img src="{{ site.baseurl }}/Figures/MTA.png" alt="A descriptive alt text for your header image" style="width:100%; height:auto; object-fit: cover;">
 
 New York City’s subway system is more than just a means of transportation—it is a living, breathing reflection of the city's dynamic pulse. Every fluctuation in ridership tells a story about what is happening above ground. From the exuberant influx of marathon runners to the quiet lulls following major incidents, the subway responds in real-time to the city's events.
 
