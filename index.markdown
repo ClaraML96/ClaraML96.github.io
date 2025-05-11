@@ -3,10 +3,42 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # bundle exec jekyll serve 
 
+
+
 layout: default
 title: How New York’s Subway Ridership Dances to the Rhythm of the City
 
 ---
+<style>
+  .narrative-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap; /* ensures responsive wrapping */
+  }
+
+  .narrative-container {
+    flex: 1 1 48%; /* allows each box to take roughly half the row */
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 10px;
+    min-width: 300px; /* helps with responsiveness */
+  }
+
+  .narrative-container h4 {
+    margin-top: 0;
+    font-weight: bold;
+  }
+
+  .narrative-container ul {
+    padding-left: 20px;
+  }
+
+  .narrative-container li {
+    margin-bottom: 10px;
+  }
+</style>
 
 <img src="{{ site.baseurl }}/Figures/NYC_subway.jpg" alt="A descriptive alt text for your header image" style="width:100%; height:auto; object-fit: cover;">
 
@@ -255,40 +287,10 @@ To understand the incident patterns in the NYC subway system, we now turn to how
   </p>
 </div>
 
-<style>
-  .narrative-columns {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    margin-top: 20px;
-    flex-wrap: wrap; /* ensures responsive wrapping */
-  }
-
-  .narrative-container {
-    flex: 1 1 48%; /* allows each box to take roughly half the row */
-    box-sizing: border-box;
-    padding: 10px;
-    border-radius: 10px;
-    min-width: 300px; /* helps with responsiveness */
-  }
-
-  .narrative-container h4 {
-    margin-top: 0;
-    font-weight: bold;
-  }
-
-  .narrative-container ul {
-    padding-left: 20px;
-  }
-
-  .narrative-container li {
-    margin-bottom: 10px;
-  }
-</style>
 
 <div class="narrative-columns">
   <div class="narrative-container">
-    <h4>A Division (1–7):</h4>
+    <h4>A Division:</h4>
     <ul>
       <li><strong>Line 2</strong> stands out with the highest incident count, particularly for “Persons on Trackbed/Police/Medical” and “Track” issues.</li>
       <li><strong>Lines 4 and 6</strong> show consistently elevated incidents, especially signal and medical issues.</li>
@@ -297,7 +299,7 @@ To understand the incident patterns in the NYC subway system, we now turn to how
   </div>
 
   <div class="narrative-container">
-    <h4>B Division (A–R):</h4>
+    <h4>B Division:</h4>
     <ul>
       <li><strong>Lines A, D, and E</strong> top the charts, with Line A having high numbers across most categories.</li>
       <li><strong>Line G</strong> has high “Stations and Structure” incidents—possibly from aging infrastructure.</li>
