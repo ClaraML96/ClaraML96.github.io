@@ -267,10 +267,8 @@ To understand the incident patterns in the NYC subway system, we now turn to how
   .narrative-container {
     flex: 1 1 48%; /* allows each box to take roughly half the row */
     box-sizing: border-box;
-    background-color: #f9f9f9;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     min-width: 300px; /* helps with responsiveness */
   }
 
