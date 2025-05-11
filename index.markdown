@@ -54,10 +54,9 @@ When we look at the polar chart in **Figure 2**, we see that Manhattan dominates
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/Histogram.png" style="width: 200%;  margin-bottom: 20px;">
   </div>
-  <p style="margin-left:5px; margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
-  </p>
 </div>
+<strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
+
 
 When exploring the histogram in **Figure 3**, we observe that subway usage begins to rise around 6 AM, coinciding with the morning rush hour. The increase continues steadily until it peaks around 5 PM, reflecting the evening commute. After this point, ridership drops off significantly, especially between 1 AM and 4 AM, which aligns with typical work and activity schedules in the city, even in a place famously known as *“the city that never sleeps.”*
 
