@@ -213,7 +213,7 @@ To examine these patterns more closely, **Figure 8** highlights the two months i
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
-    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1020" height="700" style="border:none;" title="Incidence monthly occurence "></iframe>
+    <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1020" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
     <strong>Figure 8:</strong> Displays the two months with the highest number of incidences in the subway and the two months the lowest amount of incidence in the subway.  
