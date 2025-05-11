@@ -310,6 +310,11 @@ Here we can obser following:
   </div>
 </div>
 
+**Patterns Across Categories:**
+
+- *“Persons on Trackbed/Police/Medical”* incidents are notably high across both divisions, especially on high-traffic lines like 2, A, D, and J/Z.
+- *"Signal"* and *"Track"* issues remain a common problem system-wide, supporting the MTA’s ongoing investment in modernization and maintenance.
+- *"Stations and Structure"* issues seem disproportionately high in the B Division, especially on G, L, and M lines, potentially due to older infrastructure or less accessibility upgrades.
 
 ---
 
