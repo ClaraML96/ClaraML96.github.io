@@ -98,10 +98,12 @@ In **Figure 3**, we see that subway activity starts rising sharply around 6 AM, 
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
-To understand how the subway operates under pressure, we explore how ridership patterns shift during major city-wide celebrations. We will here focus on two iconic events: the annual New York City Marathon and New Year’s Eve festivities at Times Square. These events test the system’s capacity and highlight how New Yorkers rely on the subway to move through moments of collective celebration.
+Large-scale city celebrations don’t just bring joy—they also transform mobility. During such moments, the subway acts as both a lifeline and a pressure valve, adapting to surges in human movement. In this section, we examine two of New York’s most iconic events: the New York City Marathon and New Year’s Eve in Times Square. Both reshape ridership patterns in unique ways, offering a window into how the subway supports—and strains under—the weight of collective celebration.
 
 ### New York City Marathon
-Every first Sunday in November, over 50,000 runners traverse all five boroughs for the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory). Stations near Central Park, like 59 St-Columbus Circle and 72 St, experience ridership spikes of 30–40% compared to typical Sundays.
+Held every first Sunday in November, the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory) attracts over 50,000 runners and nearly two million spectators, spanning all five boroughs. The subway becomes the artery through which runners, volunteers, and fans reach the course—especially in and around Central Park, where the race ends.
+
+Stations like 59 St–Columbus Circle and 72 St see 30–40% more traffic compared to a regular Sunday.
 
 <!--
 <div style="display: flex; justify-content: center;">
@@ -126,11 +128,11 @@ In this interactive plot in **Figure 4**, we can explore how ridership is distri
 </div>
 
 **Figure 4** reveals several key observations:
-- The morning rush begins at 5–7 AM, as runners travel to Staten Island for the starting line.
-- Around 10 AM to 2 PM, a second wave occurs as spectators head to popular cheer zones along the route.
-- After the race, there is a noticeable dip in ridership around 5 PM, as the event winds down and crowds begin to disperse.
+- **Early Morning (5–7 AM):** Runners travels to Staten Island for the starting line.
+- **Late Morning to Early Afternoon (10 AM–2 PM):** Peak spectator traffic heading toward cheer zones. 
+- **Evening (after 5 PM):** Noticeable decline in usage as the event concludes and crowds dissipate. 
 
-The New York City Marathon is a storied tradition. Starting in 1970 with just 127 participants looping around Central Park, it has evolved into the world's largest marathon, weaving through all five boroughs and drawing nearly two million spectators annually. For a detailed look at its rich history, visit the [NYC Marathon history page](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory).<!-- ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)). -->
+The marathon began in 1970 with just 127 participants running loops around Central Park. Today, it’s the world’s largest marathon, a logistical feat that reorients the entire city’s flow for a single day. [Read more about the history here](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory).<!-- ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)). -->
 
 <!--But why has marathon running surged in popularity? Beyond the challenge, many are drawn to the structure, community, and personal growth it offers. The pandemic era, in particular, saw a boom in running as people sought connection and purpose. Platforms like TikTok have further fuelled this trend, turning marathon training into a shared journey. 
 
