@@ -98,7 +98,7 @@ In **Figure 3**, we see that subway activity starts rising sharply around 6 AM, 
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
-Large-scale city celebrations don’t just bring joy—they also transform mobility. During such moments, the subway acts as both a lifeline and a pressure valve, adapting to surges in human movement. In this section, we examine two of New York’s most iconic events: the New York City Marathon and New Year’s Eve in Times Square. Both reshape ridership patterns in unique ways, offering a window into how the subway supports—and strains under—the weight of collective celebration.
+Large-scale city celebrations don’t just bring joy, they also transform mobility. During such moments, the subway acts as both a lifeline and a pressure valve, adapting to surges in human movement. In this section, we examine two of New York’s most iconic events: the New York City Marathon and New Year’s Eve in Times Square. Both reshape ridership patterns in unique ways, offering a window into how the subway supports, and strains under, the weight of collective celebration.
 
 ### New York City Marathon
 Held every first Sunday in November, the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory) attracts over 50,000 runners and nearly two million spectators, spanning all five boroughs. The subway becomes the artery through which runners, volunteers, and fans reach the course—especially in and around Central Park, where the race ends.
