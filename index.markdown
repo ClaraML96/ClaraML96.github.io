@@ -68,7 +68,7 @@ Before we dive into the bigger events in the Big Apple, we will first explore ho
 The heatmap in **Figure 1** captures ridership density across the subway system. As expected, Manhattan acts as the nucleus of subway traffic, pulsing with high-density flows, especially near business and tourism hubs.
 
 
-### How the City Functions in the Everyday
+### Borough-Level Ridership: Who Moves the Most?
 
 To better understand how New Yorkers interact with the subway system, we examine both borough-level ridership patterns and the typical flow of commuters throughout the day.
 
@@ -83,7 +83,9 @@ We can now explore how the city uses the subway system across different boroughs
   </p>
 </div>
 
-When we look at the polar chart in **Figure 2**, we see that Manhattan dominates subway usage by a wide margin. This is expected, given Manhattan’s dense concentration of commercial areas, offices, tourist attractions, and transit hubs. Brooklyn follows next in terms of usage, while Staten Island and the Bronx show relatively lower levels of ridership. This visualization emphasizes how central Manhattan is to the daily movement patterns of New Yorkers, an insight that is also visible in the heatmap in **Figure 1**.
+The plar chart in **Figure 2** confirms that Manhattan dominates subway usage, due to its concentration of offices, attractions, and transfer hubs. Brooklyn follows, while Staten Island and The Bronx show significantly lower ridership. The borough-level data aligns closely with the patterns seen in the heatmap in **Figure 1**, reinforcing Manhattan’s centrality in daily movement.
+
+### Temporal Patterns: A Day in the Life of the Subway
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -92,8 +94,7 @@ When we look at the polar chart in **Figure 2**, we see that Manhattan dominates
 </div>
 <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
 
-
-When exploring the histogram in **Figure 3**, we observe that subway usage begins to rise around 6 AM, coinciding with the morning rush hour. The increase continues steadily until it peaks around 5 PM, reflecting the evening commute. After this point, ridership drops off significantly, especially between 1 AM and 4 AM, which aligns with typical work and activity schedules in the city, even in a place famously known as *“the city that never sleeps.”*
+In **Figure 3**, we see that subway activity starts rising sharply around 6 AM, aligned with the morning rush hour. Ridership peaks at 5 PM, during the evening commute, and then declines rapidly after midnight. The drop between 1 AM and 4 AM reflects the few hours when the city—and its commuters—finally rest, despite New York’s *“city that never sleeps”* reputation.
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
