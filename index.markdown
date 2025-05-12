@@ -142,11 +142,11 @@ The marathon began in 1970 with just 127 participants running loops around Centr
 
 ### New Year’s Eve – The Ultimate Subway Stress Test
 
-When the ball drops in Times Square, it is not just a moment of celebration, it is one of the largest and most predictable waves in subway ridership all year.
+When the ball drops in Times Square, so do the boundaries of normal subway operations. December 31 consistently produces one of the highest ridership spikes of the year—while January 1 shows one of the steepest drop-offs.
 
-Each 31 December, stations near Times Square, like 42 St–Port Authority, Times Sq–42 St, and 34 St–Penn Station, become pressure valves for the city's festivities. 
+Key stations like Times Sq–42 St, 42 St–Port Authority, and 34 St–Penn Station become critical junctions as hundreds of thousands pour into Midtown.
 
-We explore this below in **Figure 5**
+We explore before and after midnight "A Tale of Two Days" in **Figure 5**
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -157,6 +157,30 @@ We explore this below in **Figure 5**
   </p>
 </div>
 
+From **Figure 5**, we can extract distinct ridership behaviors:
+
+<div class="narrative-columns">
+  <div class="narrative-container">
+    New Year’s Eve (Yellow Line):
+    <ul>
+      <li><strong>11 PM-1 AM: </strong> Massive ridership spike as crowds converge on Times Square.</li>
+      <li><strong>1-3 AM</strong> Late-night services see 2.5× more passengers than on a regular Saturday.</li>
+      <li>Lines <strong>1, 2, N, Q, R, A, C, and E</strong> carry the bulk of the load—especially around Midtown.</li>
+    </ul>
+  </div>
+
+  <div class="narrative-container">
+    New Year’s Day (Blue Line):
+    <ul>
+      <li><strong>Early morning (1 AM-12 PM):</strong> Ridership plummets to 40–50% below normal Sunday levels.</li>
+      <li><strong>Afternoon:</strong> A gradual recovery begins, mirroring the city's slower awakening after the festivities.</li>
+    </ul>
+  </div>
+</div>
+
+Celebrations like the Marathon and New Year’s Eve vividly show the subway’s dual role: it must enable celebration while absorbing intense and temporary demand shocks. These events stretch the system in unique ways, revealing both its capacity and its vulnerabilities.
+
+<!--
 For New years eve (the yellow line) we can following:
 * A dramatic spike in ridership from 11 PM to 1 AM, as revelers flood into Midtown to secure a view of the countdown.
 * Late-night services (1–3 AM) experience ridership surges up to 2.5× higher than a typical Saturday night.
@@ -168,7 +192,7 @@ But then comes the New Year’s Day (the blue line) we have these observations:
 
 This dramatic peak-and-crash pattern makes New Year’s Eve one of the most extreme shifts in the entire ridership dataset.
 
-<!--
+
 ### The Cultural Pulse of Midnight in Midtown
 
 New Year’s Eve in New York is more than just a party—it is a city-wide ritual. With over a million people cramming into the blocks around Times Square (per [NYPD estimates](https://www.nytimes.com/2023/12/31/nyregion/times-square-new-years-eve.html)), the MTA becomes the only practical way in and out. The subway does not just reflect the party—it enables it.
