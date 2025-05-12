@@ -492,8 +492,9 @@ Through this analysis, we have gained a deeper understanding of the intricate da
 *Want to dive deeper into the MTA's data and how they use these insights for planning? Check out the latest MTA reports on [subway ridership trends](https://new.mta.info/) and future improvements.*
 
 
--->
 
 ---
 
 In the end, the subway is more than just a series of stations and tracks—it is a mirror of New York itself. It reflects the city’s chaos, creativity, resilience, and unyielding spirit. And as the data shows, the MTA is not just managing a transit system—it is managing the lifeblood of New York’s mobility.
+
+-->
