@@ -210,18 +210,21 @@ Even in years affected by pandemic restrictions, data shows a smaller but still 
 
 ## Act III: When the City Struggles – The Subway Feels It
 
-When the city experiences stress -if it is human, technical or environmental- the underground feels it.
+When the city is under stress, whether human, technical, or environmental, the subway feels it. The MTA’s incident data offers a window into how disruptions ripple through the system and reflect deeper vulnerabilities in New York's urban infrastructure.
 
-The dataset captures a range of incidents in the subway system on a monthly basis.
+This section draws from monthly data on reported subway incidents from 2020 to 2024, helping us understand how and when the system is most fragile.
 
-By examining the overall distribution of major incidents from 2020 to 2024, we begin to see patterns in how and when disruptions occur. The heatmap below reveals the periods during which certain types of incidents dominate the MTA’s operations, highlighting seasonal trends and recurring problems.
+---
+
+### The Pulse of Disruption: Monthly Incident Trends
+We begin by examining how major incident categories evolve over time. The heatmap in **Figure 6** shows the temporal distribution of disruptions, with notable seasonal and categorical patterns.
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="Figures/Heatmap_incidents.png" style="width: 150%">
 </div>
-<strong>Figure 6:</strong> Heatmap of the reported incidents of NYC subway by date and Category
+<strong>Figure 6:</strong> Heatmap of NYC subway incident frequency by category (2020–2024).
 
-Before diving into the trends, it's helpful to understand what each incident category means:
+To interpret the patterns meaningfully, here’s a quick breakdown of what each category represents:
 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
@@ -258,33 +261,34 @@ Before diving into the trends, it's helpful to understand what each incident cat
   </tbody>
 </table>
 
+Notable Takeaways:
+- "Persons on trackbed / Police / Medical" incidents are the most frequent and disruptive, often reflecting emergencies, vulnerable populations, or mental health crises.
+- "Signals" issues remain a persistent technical challenge, often linked to aging infrastructure and peak-hour strain.
 
-Two categories stands out when looking at the heatmap in Figure 4:
+These two categories represent the dual vulnerability of the subway: one rooted in human unpredictability, the other in infrastructural fatigue.
 
-- "Persons on trackbed / Police / Medical": These are the most frequent and disruptive incidents, often tied to emergencies, vulnerable populations, or mental health crises.
-- "Signals": A chronic technical issue that often reflects infrastructure aging or network congestion during high-traffic periods.
+---
 
-This pattern shows that human and technical factors are the main stress points in keeping the subway running smoothly.
+### A City on Pause: The COVID-19 Shadow
 
-When looking at the heatmap in **Figure 5**, we see a distinct period of reduced incident reporting. This quiet phase aligns with the early months of the COVID-19 pandemic in New York City ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
+One of the most striking patterns appears in **Figure 7**, which marks a sharp drop in reported incidents during early 2020, aligned with the first wave of the ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="Figures/corona_heatmap.png" style="width: 150%">
   </div>
   <p style="margin-top: 10px; font-style: italic; color: #555;">
-    <strong>Figure 7:</strong> Heatmap marking a period with fewer incidents
+    <strong>Figure 7:</strong> Reduced incident reports during COVID-19 lockdown period (March–May 2020).
   </p>
 </div>
 
-The subway, in a way, mirrors how people behave and move throughout the city. When the city slowed down, so did its underground lifeline.
+As the city slowed to a near-halt, so did its subway. Fewer riders, fewer disruptions. The subway mirrored the stillness of the streets above.
 
 ---
 
-### When Do Subway Incidents Occur Most Often?  
-As seen in the heatmap in **Figure 6**, certain months show noticeably higher frequencies of subway incidents.
+### Highs and Lows: When Disruptions Spike (or Subside)
 
-To examine these patterns more closely, **Figure 8** highlights the two months in 2024 with the highest number of recorded incidents, as well as the two months with the lowest. This comparison provides insight into how incident volumes fluctuate throughout the year and allows us to better understand potential underlying causes—be they seasonal, structural, or social.
+To better understand the extremes, **Figure 8** compares the two highest and two lowest incident months in 2024. This seasonal lens reveals how external factors—weather, holidays, operations—shape subway resilience.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -295,20 +299,24 @@ To examine these patterns more closely, **Figure 8** highlights the two months i
   </p>
 </div>
 
-From this breakdown, we can draw several conclusions:
+What we see:
 
-* December 2024 had the highest number of incidents, likely due to increased traffic during the holiday season, colder weather stressing infrastructure, and more crowd-related disruptions.
-* January 2024 followed closely, possibly driven by harsh winter conditions and early-year operational resets.
-* October 2024 recorded the lowest number of incidents, suggesting a period of relative stability, milder weather, and fewer crowd-based events.
-* June 2024, the second-lowest, may reflect reduced ridership during early summer breaks or operational improvements during that window.
+* **December 2024** had the highest number of incidents, likely due to increased traffic during the holiday season, colder weather stressing infrastructure, and more crowd-related disruptions.
+* **January 2024** followed closely, possibly driven by harsh winter conditions and early-year operational resets.
+* **October 2024** recorded the lowest number of incidents, suggesting a period of relative stability, milder weather, and fewer crowd-based events.
+* **June 2024**, the second-lowest, may reflect reduced ridership during early summer breaks or operational improvements during that window.
 
-Across all months, ‘Persons on Trackbed/Police/Medical’ and ‘Signals’ remained consistently among the most frequent categories, highlighting persistent safety and technical concerns.
+Across all months, “Persons on Trackbed” and “Signal” problems dominate, signaling ongoing structural and societal tensions.
 
 ---
 
-### Incidents distributed on the different Trains 
+### Disruptions by Line: Where the Pressure Builds
 
-To understand the incident patterns in the NYC subway system, we now turn to how incidents are distributed across different subway lines and divisions. The subway is split into the A Division (lines 1–7) and B Division (lettered lines), which differ in infrastructure and traffic density. **Figure 9** visualizes incident counts per line, broken down by category.
+Next, we zoom in on how incidents differ across subway lines and divisions. The NYC subway is split into:
+- A Division (numbered lines: 1–7)
+- B Division (lettered lines: A–Z)
+
+Each has its own infrastructure, technology, and crowd dynamics. **Figure 9** maps the incident landscape by line and category for 2024.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
@@ -341,18 +349,23 @@ Here we can obser following:
   </div>
 </div>
 
-
 **Patterns Across Categories:**
-
 - *“Persons on Trackbed/Police/Medical”* incidents are notably high across both divisions, especially on high-traffic lines like 2, A, D, and J/Z.
 - *"Signal"* and *"Track"* issues remain a common problem system-wide, supporting the MTA’s ongoing investment in modernization and maintenance.
 - *"Stations and Structure"* issues seem disproportionately high in the B Division, especially on G, L, and M lines, potentially due to older infrastructure or less accessibility upgrades.
+
+The data paints a picture of a system deeply interconnected with the city’s rhythms. When things go wrong above ground, be it weather, social strain, or economic pressure—the subway doesn’t just reflect it. It absorbs it.
+
+Where ACT II showed celebration and movement, ACT III shows fatigue, tension, and stress. And yet, even in crisis, the subway continues, mirroring the resilience of the city itself.
 
 ---
 
 ## Summary 
 
-ipsum lorem
+Across these three acts, the subway emerges not just as a transit system, but as a living reflection of New York City.
+It responds to movement, emotion, and crisis. It flows with the morning rush, surges during moments of joy, and falters under pressure. Each train, signal, and crowd movement tells part of the city’s larger story.
+
+Through MTA data, we see the subway as a barometer of urban life, pulsing with energy, shaped by its people, and strained by the same forces that affect the streets above. The subway doesn’t just move people, it reveals what it means to live in a city this complex, intense, and alive.
 
 
 <!--
