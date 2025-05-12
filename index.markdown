@@ -367,6 +367,13 @@ It responds to movement, emotion, and crisis. It flows with the morning rush, su
 
 Through MTA data, we see the subway as a barometer of urban life, pulsing with energy, shaped by its people, and strained by the same forces that affect the streets above. The subway doesn’t just move people, it reveals what it means to live in a city this complex, intense, and alive.
 
+---
+
+## Explainer Notebook 
+
+This webpage is a self-contained data story crafted from extensive research, multi-source data integration, and thoughtful design. Behind the visual narrative lies a deep layer of preprocessing, correlation analysis, and incident-matching logic that helped us transform raw numbers into a living portrait of New York City’s subway system. Click the link to explore our [Explainer Notebook](https://github.com/ClaraML96/ClaraML96.github.io/blob/main/explainer_notebook.ipynb), where we walk through the code, data decisions, and behind-the-scenes process.
+
+
 
 <!--
 
