@@ -354,7 +354,7 @@ Here we can obser following:
 - *"Signal"* and *"Track"* issues remain a common problem system-wide, supporting the MTA’s ongoing investment in modernization and maintenance.
 - *"Stations and Structure"* issues seem disproportionately high in the B Division, especially on G, L, and M lines, potentially due to older infrastructure or less accessibility upgrades.
 
-The data paints a picture of a system deeply interconnected with the city’s rhythms. When things go wrong above ground, be it weather, social strain, or economic pressure—the subway doesn’t just reflect it. It absorbs it.
+The data paints a picture of a system deeply interconnected with the city’s rhythms. When things go wrong above ground, be it weather, social strain, or economic pressure, the subway doesn’t just reflect it. It absorbs it.
 
 Where ACT II showed celebration and movement, ACT III shows fatigue, tension, and stress. And yet, even in crisis, the subway continues, mirroring the resilience of the city itself.
 
