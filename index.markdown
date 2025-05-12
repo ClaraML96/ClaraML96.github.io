@@ -128,8 +128,8 @@ In this interactive plot in **Figure 4**, we can explore how ridership is distri
 </div>
 
 **Figure 4** reveals several key observations:
-- **Early Morning (5–7 AM):** Runners travels to Staten Island for the starting line.
-- **Late Morning to Early Afternoon (10 AM–2 PM):** Peak spectator traffic heading toward cheer zones. 
+- **Early Morning (5-7 AM):** Runners travels to Staten Island for the starting line.
+- **Late Morning to Early Afternoon (10 AM-2 PM):** Peak spectator traffic heading toward cheer zones. 
 - **Evening (after 5 PM):** Noticeable decline in usage as the event concludes and crowds dissipate. 
 
 The marathon began in 1970 with just 127 participants running loops around Central Park. Today, it’s the world’s largest marathon, a logistical feat that reorients the entire city’s flow for a single day. [Read more about the history here](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory).<!-- ([TCS New York City Marathon](https://www.worldmarathonmajors.com/six-star-major/new-york-city), [New York City Marathon History](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory)). -->
