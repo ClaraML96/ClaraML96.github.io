@@ -291,7 +291,7 @@ As the city slowed to a near-halt, so did its subway. Fewer riders, fewer disrup
 
 ### Highs and Lows: When Disruptions Spike (or Subside)
 
-To better understand the extremes, **Figure 8** compares the two highest and two lowest incident months in 2024. This seasonal lens reveals how external factors—weather, holidays, operations—shape subway resilience.
+To better understand the extremes, **Figure 8** compares the two highest and two lowest incident months in 2024. This seasonal lens reveals how external factors, weather, holidays, operations, shape subway resilience.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
