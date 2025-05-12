@@ -89,7 +89,7 @@ The plar chart in **Figure 2** confirms that Manhattan dominates subway usage, d
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/Histogram.png" style="width: 200%;  margin-bottom: 10px;">
+    <img src="Figures/Histogram2.png" style="width: 200%;  margin-bottom: 10px;">
   </div>
 </div>
 <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
