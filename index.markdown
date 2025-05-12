@@ -48,11 +48,13 @@ In this data story, we delve into the intricate relationship between the city's 
 - [MTA Subway Hourly Ridership Data (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s/about_data) 
 - [Major Subway Incident Reports (2020–2024)](https://data.ny.gov/Transportation/MTA-Subway-Major-Incidents-2020-2024/j6d2-s8m2/about_data) 
 
-We explore how planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and [New years eve](https://www.timessquarenyc.org/nye/nye-landing) influence the flow of commuters. Our analysis reveals patterns that not only highlight the subway's responsiveness but also offer insights into the city's resilience and adaptability.
+We begin by analyzing everyday subway usage and how it varies across time and boroughs. Next, we dive into how large-scale planned events like the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon) and [New years eve](https://www.timessquarenyc.org/nye/nye-landing) reshape the flow of commuters. Finally, we turn our attention to disruptions, exploring patterns in subway incidents to uncover what stresses the system and when. 
 
 ## ACT I : Understanding the subway usage
 
 Before we dive into the bigger events in the Big Apple, we will first explore how the subway is used and how its ridership varies on a daily basis. Public transportation plays a vital role in New York City's rhythm, and the subway system is arguably its lifeline. Understanding its everyday usage provides critical context for interpreting how larger events influence movement across the city.
+
+### Mapping the City’s Pulse
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div class="image-container">
@@ -63,7 +65,8 @@ Before we dive into the bigger events in the Big Apple, we will first explore ho
   </p>
 </div>
 
-[comment]: <> (Change the map to make an interactive plugin to change the timeperiod)
+The heatmap in **Figure 1** captures ridership density across the subway system. As expected, Manhattan acts as the nucleus of subway traffic, pulsing with high-density flows, especially near business and tourism hubs.
+
 
 ### How the City Functions in the Everyday
 
