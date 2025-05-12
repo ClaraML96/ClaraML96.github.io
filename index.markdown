@@ -360,7 +360,7 @@ Where ACT II showed celebration and movement, ACT III shows fatigue, tension, an
 
 ---
 
-## Summary 
+## Summary
 
 Across these three acts, the subway emerges not just as a transit system, but as a living reflection of New York City.
 It responds to movement, emotion, and crisis. It flows with the morning rush, surges during moments of joy, and falters under pressure. Each train, signal, and crowd movement tells part of the city’s larger story.
@@ -369,7 +369,7 @@ Through MTA data, we see the subway as a barometer of urban life, pulsing with e
 
 ---
 
-## Explainer Notebook 
+## Explainer Notebook
 
 This webpage is a self-contained data story crafted from extensive research, multi-source data integration, and thoughtful design. Behind the visual narrative lies a deep layer of preprocessing, correlation analysis, and incident-matching logic that helped us transform raw numbers into a living portrait of New York City’s subway system. Click the link to explore our [Explainer Notebook](https://github.com/ClaraML96/ClaraML96.github.io/blob/main/explainer_notebook.ipynb), where we walk through the code, data decisions, and behind-the-scenes process.
 
