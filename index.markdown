@@ -96,7 +96,7 @@ The plar chart in **Figure 2** confirms that Manhattan dominates subway usage, d
 
 In **Figure 3**, we see that subway activity starts rising sharply around 6 AM, aligned with the morning rush hour. Ridership peaks at 5 PM, during the evening commute, and then declines rapidly after midnight. The drop between 1 AM and 4 AM reflects the few hours when the city, and its commuters, finally rest, despite New York’s *“city that never sleeps”* reputation.
 
-By understanding these baseline behaviors—where and when the subway is used, we establish a reference point for detecting anomalies caused by events and incidents. The next act will explore how specific moments (festive or stressful) reshape this daily rhythm.
+By understanding these baseline behaviors, where and when the subway is used, we establish a reference point for detecting anomalies caused by events and incidents. The next act will explore how specific moments (festive or stressful) reshape this daily rhythm.
 
 ---
 
