@@ -94,16 +94,20 @@ The plar chart in **Figure 2** confirms that Manhattan dominates subway usage, d
 </div>
 <strong>Figure 3:</strong> The histogram shows the distribution of subway ridership across different hours of the day. 
 
-In **Figure 3**, we see that subway activity starts rising sharply around 6 AM, aligned with the morning rush hour. Ridership peaks at 5 PM, during the evening commute, and then declines rapidly after midnight. The drop between 1 AM and 4 AM reflects the few hours when the city—and its commuters—finally rest, despite New York’s *“city that never sleeps”* reputation.
+In **Figure 3**, we see that subway activity starts rising sharply around 6 AM, aligned with the morning rush hour. Ridership peaks at 5 PM, during the evening commute, and then declines rapidly after midnight. The drop between 1 AM and 4 AM reflects the few hours when the city, and its commuters, finally rest, despite New York’s *“city that never sleeps”* reputation.
 
 By understanding these baseline behaviors—where and when the subway is used, we establish a reference point for detecting anomalies caused by events and incidents. The next act will explore how specific moments (festive or stressful) reshape this daily rhythm.
+
+---
 
 ## ACT II : When the City Celebrates, the Subway Becomes a Party
 
 Large-scale city celebrations don’t just bring joy, they also transform mobility. During such moments, the subway acts as both a lifeline and a pressure valve, adapting to surges in human movement. In this section, we examine two of New York’s most iconic events: the New York City Marathon and New Year’s Eve in Times Square. Both reshape ridership patterns in unique ways, offering a window into how the subway supports, and strains under, the weight of collective celebration.
 
+---
+
 ### New York City Marathon
-Held every first Sunday in November, the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory) attracts over 50,000 runners and nearly two million spectators, spanning all five boroughs. The subway becomes the artery through which runners, volunteers, and fans reach the course—especially in and around Central Park, where the race ends.
+Held every first Sunday in November, the [New York City Marathon](https://www.nyrr.org/tcsnycmarathon/getinspired/marathonhistory) attracts over 50,000 runners and nearly two million spectators, spanning all five boroughs. The subway becomes the artery through which runners, volunteers and fans reach the course, especially in and around Central Park, where the race ends.
 
 Stations like 59 St–Columbus Circle and 72 St see 30–40% more traffic compared to a regular Sunday.
 
@@ -144,7 +148,7 @@ The marathon began in 1970 with just 127 participants running loops around Centr
 
 ### New Year’s Eve – The Ultimate Subway Stress Test
 
-When the ball drops in Times Square, so do the boundaries of normal subway operations. December 31 consistently produces one of the highest ridership spikes of the year—while January 1 shows one of the steepest drop-offs.
+When the ball drops in Times Square, so do the boundaries of normal subway operations. December 31 consistently produces one of the highest ridership spikes of the year, while January 1 shows one of the steepest drop-offs.
 
 Key stations like Times Sq–42 St, 42 St–Port Authority, and 34 St–Penn Station become critical junctions as hundreds of thousands pour into Midtown.
 
@@ -167,7 +171,6 @@ From **Figure 5**, we can extract distinct ridership behaviors:
     <ul>
       <li><strong>11 PM-1 AM: </strong> Massive ridership spike as crowds converge on Times Square.</li>
       <li><strong>1-3 AM</strong> Late-night services see 2.5× more passengers than on a regular Saturday.</li>
-      <li>Lines <strong>1, 2, N, Q, R, A, C, and E</strong> carry the bulk of the load—especially around Midtown.</li>
     </ul>
   </div>
 
@@ -261,9 +264,9 @@ To interpret the patterns meaningfully, here’s a quick breakdown of what each 
   </tbody>
 </table>
 
-Notable Takeaways:
-- "Persons on trackbed / Police / Medical" incidents are the most frequent and disruptive, often reflecting emergencies, vulnerable populations, or mental health crises.
-- "Signals" issues remain a persistent technical challenge, often linked to aging infrastructure and peak-hour strain.
+From **Figure 6** we have these observations:
+* "Persons on trackbed / Police / Medical" incidents are the most frequent and disruptive, often reflecting emergencies, vulnerable populations, or mental health crises.
+* "Signals" issues remain a persistent technical challenge, often linked to aging infrastructure and peak-hour strain.
 
 These two categories represent the dual vulnerability of the subway: one rooted in human unpredictability, the other in infrastructural fatigue.
 
