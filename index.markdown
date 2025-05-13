@@ -274,21 +274,8 @@ These two categories represent the dual vulnerability of the subway: one rooted 
 
 ### A City on Pause: The COVID-19 Shadow
 
-One of the most striking patterns appears in **Figure 7**, which marks a sharp drop in reported incidents during early 2020, aligned with the first wave of the ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
+One of the most striking patterns appears from April til June 2020 in **Figure 6**, where the reported incidents drops significantly. This aligns with the first wave of the ([COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)). 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="Figures/corona_heatmap.png" style="width: 150%">
-</div>
-<strong>Figure 7:</strong> Reduced incident reports during COVID-19 lockdown period (March–May 2020).
-
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/corona_heatmap2.jpg" style="width: 140%">
-  </div>
-  <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
-    <strong>Figure 7:</strong> Reduced incident reports during COVID-19 lockdown period (March–May 2020).
-  </p>
-</div>
 
 As the city slowed to a near-halt, so did its subway. Fewer riders, fewer disruptions. The subway mirrored the stillness of the streets above.
 
