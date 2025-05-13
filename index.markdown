@@ -283,14 +283,14 @@ As the city slowed to a near-halt, so did its subway. Fewer riders, fewer disrup
 
 ### Highs and Lows: When Disruptions Spike (or Subside)
 
-To better understand the extremes, **Figure 8** compares the two highest and two lowest incident months in 2024. This seasonal lens reveals how external factors, weather, holidays, operations, shape subway resilience.
+To better understand the extremes, **Figure 7** compares the two highest and two lowest incident months in 2024. This seasonal lens reveals how external factors, weather, holidays, operations, shape subway resilience.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\nyc_subway_high_low_months_incidents_2024.html" width="1020" height="720" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
-    <strong>Figure 8:</strong> Comparison of the two highest-incident and two lowest-incident months in the NYC subway system during 2024, broken down by incident category.
+    <strong>Figure 7:</strong> Comparison of the two highest-incident and two lowest-incident months in the NYC subway system during 2024, broken down by incident category.
   </p>
 </div>
 
@@ -311,14 +311,14 @@ Next, we zoom in on how incidents differ across subway lines and divisions. The 
 - A Division (numbered lines: 1–7)
 - B Division (lettered lines: A–Z)
 
-Each has its own infrastructure, technology, and crowd dynamics. **Figure 9** maps the incident landscape by line and category for 2024.
+Each has its own infrastructure, technology, and crowd dynamics. **Figure 8** maps the incident landscape by line and category for 2024.
 
 <div style="display: flex; justify-content: center;">
   <div class="image-container">
     <iframe src="html_templates\nyc_subway_incidents_by_division_line.html" width="1120" height="620" style="border:none;" title="Incidence monthly occurence "></iframe>
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
-    <strong>Figure 9:</strong> Distribution of subway incidents by line and division, categorized by type of incident (2024)
+    <strong>Figure 8:</strong> Distribution of subway incidents by line and division, categorized by type of incident (2024)
   </p>
 </div>
 
