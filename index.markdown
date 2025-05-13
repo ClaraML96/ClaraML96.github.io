@@ -278,7 +278,7 @@ One of the most striking patterns appears in **Figure 7**, which marks a sharp d
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="Figures/corona_heatmap.png" style="width: 140%">
+    <img src="Figures/corona_heatmap2.jpg" style="width: 140%">
   </div>
   <p style="margin-top: 10px; margin-left: 5px; font-style: italic; color: #555;">
     <strong>Figure 7:</strong> Reduced incident reports during COVID-19 lockdown period (March–May 2020).
